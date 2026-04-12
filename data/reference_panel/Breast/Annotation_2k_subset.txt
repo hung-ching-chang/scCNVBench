@@ -1,0 +1,2001 @@
+Cell_type_in_each_tissue	orig.ident
+hbca_c146_hbca_c146_TATTTCGAGTGGAAGA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c14_AACTTTCCACCTATCC	vein endothelial cell	Ref20k
+hbca_c105_hbca_c105_TCATATCGTTGCTTGA-1	fibroblast	Ref20k
+r2_hbca_c49_TCCGAAACAACTGTGT-1	basal cell	Ref20k
+r2_hbca_c78_GTCAAGTAGTCCCAAT-1	capillary endothelial cell	Ref20k
+hbca_c135_hbca_c135_CCTTGTGCAGTGGCTC-1	fibroblast	Ref20k
+hbca_c102_hbca_c102_ATGGGAGAGGAGCAAA-1	basal cell	Ref20k
+hbca_c110_hbca_c110_CTAACCCAGTAATTGG-1	endothelial cell of artery	Ref20k
+hbca_c148_hbca_c148_CCGCAAGCATGAAGCG-1	basal cell	Ref20k
+r1_hbca_c05_GTTTCTATCAGCCTAA	classical monocyte	Ref20k
+hbca_c154_hbca_c154_ATTCCTAGTGTCGCTG-1	pericyte	Ref20k
+hbca_c152_hbca_c152_GATAGCTTCAAAGCCT-1	fibroblast	Ref20k
+r1_hbca_c24_GACGCGTTCGCATGAT	vein endothelial cell	Ref20k
+hbca_c130_hbca_c130_TCCCAGTAGGTATAGT-1	endothelial cell of artery	Ref20k
+r2_hbca_c62_TTTCCTCCAGCCATTA-1	class switched memory B cell	Ref20k
+hbca_c126_hbca_c126_GCACATAAGCCTGACC-1	fibroblast	Ref20k
+r1_hbca_c50_GAAGCCCTCGCTCTCA	fibroblast	Ref20k
+r1_hbca_c26_GAAACTCAGCATCATC	vein endothelial cell	Ref20k
+r1_hbca_c28_GGAATAAAGTTACCCA	fibroblast	Ref20k
+hbca_c104_hbca_c104_AATCGTGCACTCTAGA-1	basal cell	Ref20k
+hbca_c119_hbca_c119_CCACGAGTCCATCGTC-1	capillary endothelial cell	Ref20k
+hbca_c101_hbca_c101_CCTCATGTCGTGGGAA-1	capillary endothelial cell	Ref20k
+hbca_c109_hbca_c109_GCTTGGGAGGAGGCAG-1	fibroblast	Ref20k
+r2_hbca_c96_ACACGCGAGAAGTCAT-1	fibroblast	Ref20k
+r1_hbca_c40_CGCATAATCCTCGATC	capillary endothelial cell	Ref20k
+r2_hbca_c97_ACTTATCTCCAACTAG-1	fibroblast	Ref20k
+hbca_c124_hbca_c124_TCCTCGAGTGTCGATT-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c30_CTCAGAAGTCGACTAT	basal cell	Ref20k
+r1_hbca_c23_TGTGTTTAGGGTCTCC	basal cell	Ref20k
+hbca_c121_hbca_c121_GCCAGCAAGAGCCGAT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c75_GTTGTGAGTAGAATGT-1	vein endothelial cell	Ref20k
+hbca_c101_hbca_c101_CATTCCGGTTGGGATG-1	endothelial cell of artery	Ref20k
+r2_hbca_c63_TTGTTTGAGCGATTCT-1	basal cell	Ref20k
+hbca_c101_hbca_c101_GCACTAACACAATGAA-1	basal cell	Ref20k
+r2_hbca_c87_TTCATGTAGAAGAACG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c143_hbca_c143_TGCGATAAGTCAGCCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c157_hbca_c157_TCATATCTCCAACTGA-1	vein endothelial cell	Ref20k
+hbca_c155_hbca_c155_AGAACCTAGTGCCGAA-1	capillary endothelial cell	Ref20k
+hbca_c164_hbca_c164_TCATGTTTCACAGAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c146_hbca_c146_TGACTCCCAACCGGAA-1	neutrophil	Ref20k
+r1_hbca_c45_GTCTCACTCTTTCAGT	capillary endothelial cell	Ref20k
+hbca_c163_hbca_c163_GATGATCAGCTGGCCT-1	endothelial cell of artery	Ref20k
+hbca_c129_hbca_c129_GATGAGGTCGTTACCC-1	fibroblast	Ref20k
+r1_hbca_c50_CATAAGCGTTACTCAG	fibroblast	Ref20k
+r2_hbca_c55_TGATTTCTCGCCGTGA-1	fibroblast	Ref20k
+hbca_c133_hbca_c133_CACGGGTTCCCAGTGG-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_AATGACCAGCCGATTT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c24_AGGGATGTCTTCCTTC	mammary gland epithelial cell	Ref20k
+hbca_c164_hbca_c164_TGATCTTTCGCTTAAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c111_hbca_c111_GAATCACGTCTGTCCT-1	fibroblast	Ref20k
+hbca_c120_hbca_c120_TCTTAGTCATGAAGCG-1	fibroblast	Ref20k
+hbca_c138_hbca_c138_TAGCACAGTGCACAAG-1	fibroblast	Ref20k
+hbca_c148_hbca_c148_GACGTTAGTCCCTGAG-1	basal cell	Ref20k
+hbca_c165_hbca_c165_GGTGAAGTCCGAACGC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c51_GTGACGCAGACCCTTA	alternatively activated macrophage	Ref20k
+hbca_c139_hbca_c139_CTGCAGGGTAACGATA-1	basal cell	Ref20k
+r2_hbca_c69_GATGAGGAGAATAGTC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c129_hbca_c129_TTGGGATTCCGTGTCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c134_hbca_c134_AGACAAATCGGTAGGA-1	fibroblast	Ref20k
+hbca_c167_hbca_c167_ATTCTTGCAGCTACAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c148_hbca_c148_TCTCACGCACCTGTCT-1	basal cell	Ref20k
+hbca_c126_hbca_c126_CCGATGGTCTTCGATT-1	basal cell	Ref20k
+r2_hbca_c48_CTGAGCGCATGAAGCG-1	fibroblast	Ref20k
+r2_hbca_c88_TTCCTTCAGTAGTCAA-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c111_hbca_c111_CAGTTCCAGCGAACTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_CATACAGGTTGGTACT-1	basal cell	Ref20k
+r1_hbca_c17_GTCTCGTGTTAAAGTG	class switched memory B cell	Ref20k
+r1_hbca_c52_GGGCGTTGTATGGTAA	fibroblast	Ref20k
+r1_hbca_c05_TGCCCATAGCAAATCA	mature NK T cell	Ref20k
+hbca_c108_hbca_c108_TATTCCACACAGCATT-1	fibroblast	Ref20k
+r2_hbca_c46_GAACACTGTAACACGG-1	pericyte	Ref20k
+hbca_c128_hbca_c128_CGCCATTCAATCTAGC-1	fibroblast	Ref20k
+r2_hbca_c97_TAAGTCGCACTAGGTT-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c63_TCTTTGATCAAGATAG-1	fibroblast	Ref20k
+hbca_c121_hbca_c121_GTGCTTCAGTACAGCG-1	fibroblast	Ref20k
+hbca_c140_hbca_c140_TTATTGCAGAGGCGTT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c32_TTCGATTAGTCGAAAT	non-classical monocyte	Ref20k
+r1_hbca_c28_GACGTTATCTTGTCAT	mammary gland epithelial cell	Ref20k
+hbca_c113_hbca_c113_AGACACTCAGAGTCTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c130_hbca_c130_TCACTCGCAGACCAAG-1	fibroblast	Ref20k
+r2_hbca_c76_GGCTGTGAGTGCCAGA-1	fibroblast	Ref20k
+hbca_c145_hbca_c145_CTGTATTCAGTGGCTC-1	fibroblast	Ref20k
+r2_hbca_c72_CCGTGAGAGAGGGTAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c124_hbca_c124_CTGTGGGAGGGTGGGA-1	mammary gland epithelial cell	Ref20k
+hbca_c167_hbca_c167_TGTCCCATCGAGATAA-1	basal cell	Ref20k
+hbca_c111_hbca_c111_TTTCAGTGTCGGATTT-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c74_TCGTAGAAGAGAGGGC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c60_GGGTTATTCATCTACT-1	fibroblast	Ref20k
+hbca_c145_hbca_c145_CGGGACTGTGTCATCA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_TAGAGTCGTGCATTTG	vein endothelial cell	Ref20k
+r2_hbca_c92_ATGGTTGAGGGTACGT-1	endothelial cell of artery	Ref20k
+hbca_c147_hbca_c147_ATCGTCCGTCCTGAAT-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_AACGAAACACTGGATT-1	fibroblast	Ref20k
+hbca_c159_hbca_c159_CTGTACCAGATTTGCC-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c94_ACCTACCAGCCAGACA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c88_GTCCCATTCGCTACAA-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c158_hbca_c158_TACGGTACAACTAGAA-1	vein endothelial cell	Ref20k
+hbca_c152_hbca_c152_GGTTCTCCAACATACC-1	fibroblast	Ref20k
+r1_hbca_c49_AAGTCGTTCCACACCT	pericyte	Ref20k
+r2_hbca_c99_CTCCCTCTCGCGCCAA-1	fibroblast	Ref20k
+r1_hbca_c40_ATTACTCTCCTCATAT	capillary endothelial cell	Ref20k
+hbca_c118_hbca_c118_CGGGTGTGTGAGAGGG-1	fibroblast	Ref20k
+hbca_c144_hbca_c144_TTCAGGACATCGAAGG-1	regulatory T cell	Ref20k
+r2_hbca_c78_GTAGAAACATAGCTGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c38_GACCGTGCAAGTGCAG	fibroblast	Ref20k
+hbca_c101_hbca_c101_GACTATGCATTGACAC-1	fibroblast	Ref20k
+hbca_c105_hbca_c105_TGACGCGAGATCGACG-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_AGTAACCCAATGCAGG-1	CD4-positive helper T cell	Ref20k
+hbca_c144_hbca_c144_TGATCAGGTAAGACCG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c134_hbca_c134_CAAGCTACATGGCTAT-1	basal cell	Ref20k
+r2_hbca_c60_GCAACATTCTCCATAT-1	class switched memory B cell	Ref20k
+hbca_c124_hbca_c124_TCCATCGTCCTTCGAC-1	vein endothelial cell	Ref20k
+r1_hbca_c23_AGTAGTCTCTACCAGA	CD4-positive helper T cell	Ref20k
+r2_hbca_c74_GGGTTTAAGTCCTACA-1	fibroblast	Ref20k
+r2_hbca_c78_GCCGATGTCTTTCCGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c149_hbca_c149_CTGAATGGTTAAACCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c26_ACGGGTCAGAAGGTGA	basal cell	Ref20k
+hbca_c113_hbca_c113_CATACCCAGGAGACCT-1	capillary endothelial cell	Ref20k
+hbca_c124_hbca_c124_CTACTATCATCGTGGC-1	basal cell	Ref20k
+hbca_c127_hbca_c127_TGCATCCTCGAGATGG-1	IgA plasma cell	Ref20k
+r2_hbca_c48_CTGCTCAAGTCTGGAG-1	IgA plasma cell	Ref20k
+hbca_c156_hbca_c156_TGTCAGAAGTCATCCA-1	CD4-positive helper T cell	Ref20k
+hbca_c120_hbca_c120_TATCAGGCATCACCAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c139_hbca_c139_AAGCATCGTTACAGCT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c51_CACTAAGCACTCACTC-1	regulatory T cell	Ref20k
+hbca_c102_hbca_c102_TATATCCCACTCATAG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c50_CGGGACTCACGCAGTC	fibroblast	Ref20k
+hbca_c146_hbca_c146_ATACCTTTCGCACTCT-1	endothelial cell of artery	Ref20k
+hbca_c153_hbca_c153_TAAGCCATCTTTCAGT-1	IgA plasma cell	Ref20k
+hbca_c152_hbca_c152_TCGTGCTCACTGGACC-1	basal cell	Ref20k
+r2_hbca_c94_TTCAGGAAGGATCATA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c49_GAGAAATTCGAGTTGT	fibroblast	Ref20k
+hbca_c145_hbca_c145_AACAAAGGTGACGTCC-1	basal cell	Ref20k
+r1_hbca_c21_AACTTTCGTCTGCCAG	fibroblast	Ref20k
+r2_hbca_c88_TGTTCATCAGGACATG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c60_AGTGATCTCACTTGGA-1	mammary gland epithelial cell	Ref20k
+hbca_c114_hbca_c114_ATCGGCGCACGAGAAC-1	fibroblast	Ref20k
+hbca_c163_hbca_c163_GCGAGAACAGCAGTAG-1	fibroblast	Ref20k
+hbca_c129_hbca_c129_TGGGATTTCGATGCAT-1	non-classical monocyte	Ref20k
+r1_hbca_c30_TGAGAGGAGCTGCCCA	mammary gland epithelial cell	Ref20k
+r1_hbca_c37_TTTAGTCTCAGGGATG	fibroblast	Ref20k
+hbca_c120_hbca_c120_TAAGCCAGTTTGTGGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c61_GTCGCGACATCTAACG-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_AATGACCGTAAGCTCT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c31_GGGCATCTCTCTGTCG	vein endothelial cell	Ref20k
+r1_hbca_c32_GAGTCATCACCGTCGA	classical monocyte	Ref20k
+hbca_c148_hbca_c148_GAAGCGATCATTTCCA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c98_TTGGTTTAGCGACATG-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_AACCTTTGTAGCTAAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c104_hbca_c104_ACTATCTAGTTTAGGA-1	fibroblast	Ref20k
+hbca_c151_hbca_c151_CTGCGAGTCTTCCACG-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c33_TACGGTAAGTAACAGT	CD4-positive, alpha-beta T cell	Ref20k
+hbca_c158_hbca_c158_TCGTCCAAGTTGCTCA-1	pericyte	Ref20k
+r1_hbca_c44_GAATAGATCCTACAAG	pericyte	Ref20k
+hbca_c125_hbca_c125_GATCACATCCTGGTCT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c52_TCCACCAGTAGATGTA	fibroblast	Ref20k
+r2_hbca_c49_TCGACGGTCGCTAATG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c91_CACCGTTGTAGAGACC-1	vein endothelial cell	Ref20k
+r2_hbca_c99_ATCGTCCAGAGTCACG-1	fibroblast	Ref20k
+r2_hbca_c73_GTTCATTAGGAAACGA-1	basal cell	Ref20k
+hbca_c148_hbca_c148_ATCCACCCACACCTAA-1	class switched memory B cell	Ref20k
+hbca_c146_hbca_c146_CTTGATTTCTAGTTCT-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c84_TTGTTTGCACCGCTAG-1	fibroblast	Ref20k
+r1_hbca_c47_TTTACCAAGTGGTTCT	CD4-positive, alpha-beta T cell	Ref20k
+hbca_c101_hbca_c101_TATGTTCCAAGAGCTG-1	basal cell	Ref20k
+r1_hbca_c52_ACGGTCGGTAACATGA	fibroblast	Ref20k
+hbca_c130_hbca_c130_CGGCAGTGTCAAACGG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c78_GAGTCATTCGACATTG-1	fibroblast	Ref20k
+r2_hbca_c60_GGAATGGTCCACCCTA-1	alternatively activated macrophage	Ref20k
+r1_hbca_c30_CCACCTAGTCTGGAGA	basal cell	Ref20k
+hbca_c148_hbca_c148_AGCATCAAGGTCCCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c60_CTCATCGAGATGAATC-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_GCAGCCATCAGATGCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c166_hbca_c166_AACCAACGTTCAGGTT-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c75_CTCTCAGCAACAGTGG-1	endothelial cell of artery	Ref20k
+r2_hbca_c75_TTCAATCCATTCGGGC-1	basal cell	Ref20k
+hbca_c152_hbca_c152_TGTGGCGTCATGCATG-1	capillary endothelial cell	Ref20k
+r2_hbca_c75_CTAGACAAGGTACAGC-1	basal cell	Ref20k
+hbca_c167_hbca_c167_CGAAGTTGTCGACGCT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c74_TGGGCTGTCCCGTTCA-1	fibroblast	Ref20k
+hbca_c132_hbca_c132_TCCTAATCAACCGTAT-1	capillary endothelial cell	Ref20k
+r2_hbca_c74_TTGCCTGTCCCGAGAC-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_ATTCTTGGTTGTGGCC-1	capillary endothelial cell	Ref20k
+hbca_c112_hbca_c112_CGAGGAACAGGTTCCG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c67_ACGTCCTCAAGAGATT-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c126_hbca_c126_TGGTTAGCACAAGGTG-1	basal cell	Ref20k
+hbca_c166_hbca_c166_ACCCAAATCACTCGAA-1	fibroblast	Ref20k
+r1_hbca_c30_ATCCACCGTGATGATA	capillary endothelial cell	Ref20k
+r1_hbca_c24_GTTCTCGCACGGACAA	vein endothelial cell	Ref20k
+r2_hbca_c62_GCACATAGTACACGTT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c76_GGGTTTAAGATACCAA-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_CCTATCGCAGCGACAA-1	pericyte	Ref20k
+r1_hbca_c22_CCCAATCGTGGCCCTA	vein endothelial cell	Ref20k
+hbca_c139_hbca_c139_GTGCTGGTCCGCAACG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c81_TGCTGAAGTATACGGG-1	fibroblast	Ref20k
+hbca_c163_hbca_c163_TAGGGTTGTCGCTGCA-1	CD4-positive helper T cell	Ref20k
+hbca_c136_hbca_c136_ATCTCTAGTGAGCCAA-1	basal cell	Ref20k
+hbca_c124_hbca_c124_TATCTTGCACATAGCT-1	basal cell	Ref20k
+r2_hbca_c79_TGTCCTGTCTCATTTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c48_CACTGGGAGGAACGCT-1	fibroblast	Ref20k
+hbca_c155_hbca_c155_ACAAAGAAGTTTGAGA-1	basal cell	Ref20k
+hbca_c147_hbca_c147_CTGCGAGAGAAATGGG-1	basal cell	Ref20k
+hbca_c129_hbca_c129_CCCAACTGTTCGTACA-1	fibroblast	Ref20k
+r2_hbca_c78_TTTGGAGAGACGCTCC-1	endothelial cell of artery	Ref20k
+hbca_c144_hbca_c144_AGGTCTACAACTACGT-1	regulatory T cell	Ref20k
+hbca_c147_hbca_c147_TCGCAGGTCTCTCGAC-1	fibroblast	Ref20k
+r1_hbca_c18_ACTATCTTCGGAAACG	natural killer cell	Ref20k
+r2_hbca_c60_GTCCACTAGGCGATAC-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_CCCTTAGAGTAAAGCT-1	basal cell	Ref20k
+r1_hbca_c28_ACGAGCCTCTTGTACT	fibroblast	Ref20k
+hbca_c120_hbca_c120_GTTCTATGTAGGACTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c121_hbca_c121_GCGTGCACACCCAACG-1	basal cell	Ref20k
+r1_hbca_c50_ACACTGACAAGAGAGA	fibroblast	Ref20k
+r1_hbca_c37_ATGGAGGAGCTGACTT	fibroblast	Ref20k
+r1_hbca_c34_TCTCTGGTCATTATCC	pericyte	Ref20k
+r1_hbca_c32_TACGGTACACCGTACG	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c66_CGGACACTCCAATCTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c112_hbca_c112_TTCTGTACAGGTCTCG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c127_hbca_c127_GATCCCTTCTCCAAGA-1	fibroblast	Ref20k
+r1_hbca_c50_GTATTTCAGGTCCCGT	fibroblast	Ref20k
+hbca_c102_hbca_c102_GTAACACGTAGTCCTA-1	basal cell	Ref20k
+hbca_c129_hbca_c129_CGTGATACAACTGAAA-1	basal cell	Ref20k
+hbca_c156_hbca_c156_AGGCCACAGTAACGAT-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c52_CAACAACGTATTGACC	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c91_GTGCACGTCTCGTCAC-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_GGCTTGGGTTTGTTCT-1	fibroblast	Ref20k
+r2_hbca_c70_GACGCTGTCTCCTGAC-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_ACGTCCTGTTAGGGAC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c160_hbca_c160_TTTGTTGGTCAACCTA-1	pericyte	Ref20k
+hbca_c152_hbca_c152_GTCCACTTCTTCGTGC-1	fibroblast	Ref20k
+r1_hbca_c20_CGGGTCAAGAGTGAGA	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c28_GCTGCTTGTACCTACA	fibroblast	Ref20k
+hbca_c149_hbca_c149_CCATAAGAGTTGAATG-1	vein endothelial cell	Ref20k
+r1_hbca_c48_TGATGGTGTATGGGAC	basal cell	Ref20k
+hbca_c153_hbca_c153_TGGATCATCTAATTCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c51_AGTACTGTCGCGATCG	CD4-positive helper T cell	Ref20k
+hbca_c134_hbca_c134_GTAAGTCTCCAAGGGA-1	fibroblast	Ref20k
+r2_hbca_c63_CCAATGACATGGCGCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c150_hbca_c150_ACGTAGTAGAGTTCGG-1	alternatively activated macrophage	Ref20k
+hbca_c130_hbca_c130_CATGCAAAGGTGAGCT-1	fibroblast	Ref20k
+hbca_c127_hbca_c127_GTTTACTCAAAGCAAT-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_CCTGTTGGTCCAACGC-1	fibroblast	Ref20k
+r2_hbca_c94_TCAGCCTAGGTCGAGT-1	vein endothelial cell	Ref20k
+r1_hbca_c32_CTTGATTCAGCTTTGA	fibroblast	Ref20k
+hbca_c147_hbca_c147_ATACTTCAGGTCACTT-1	vein endothelial cell	Ref20k
+r2_hbca_c83_TGTACAGAGAGGACTC-1	mammary gland epithelial cell	Ref20k
+hbca_c104_hbca_c104_TTGAGTGTCGGATAAA-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c74_TTTGACTAGGGCATGT-1	fibroblast	Ref20k
+hbca_c111_hbca_c111_TCGTGGGTCATTCGTT-1	inflammatory macrophage	Ref20k
+hbca_c142_hbca_c142_ACAGAAATCGGATTAC-1	fibroblast	Ref20k
+r2_hbca_c90_CTGGCAGCAGCTATAC-1	fibroblast	Ref20k
+hbca_c145_hbca_c145_TTCGCTGCAAGGGTCA-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_TCCCAGTTCTCTCAAT-1	basal cell	Ref20k
+r2_hbca_c90_CTTTCAAGTAACAAGT-1	fibroblast	Ref20k
+r1_hbca_c48_CCCTTAGTCCCACAGG	pericyte	Ref20k
+r1_hbca_c31_CCTAAAGCATTACGAC	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c76_ACAAAGACATACTGAC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c21_GCGAGAACACGAAACG	mammary gland epithelial cell	Ref20k
+hbca_c136_hbca_c136_CAGGTATCATAACTCG-1	fibroblast	Ref20k
+r1_hbca_c17_CTGCCTAGTTAAGACA	alternatively activated macrophage	Ref20k
+r2_hbca_c96_TGAGGTTCACGCTTAA-1	conventional dendritic cell	Ref20k
+r1_hbca_c29_TACCTTACATTCTTAC	capillary endothelial cell	Ref20k
+hbca_c121_hbca_c121_CCTGCATGTAGAGTTA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c68_GAAGCGACATGAGGGT-1	fibroblast	Ref20k
+hbca_c102_hbca_c102_TTTGATCGTAGGTCAG-1	basal cell	Ref20k
+hbca_c111_hbca_c111_CGAGAAGTCTTGGATG-1	endothelial cell of artery	Ref20k
+hbca_c126_hbca_c126_ACGTAGTAGGTTCTTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c141_hbca_c141_TAGGTACTCTCTGCTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c151_hbca_c151_TATTGCTCAGTGAGCA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c160_hbca_c160_GCTACAAGTAGTTACC-1	alternatively activated macrophage	Ref20k
+r1_hbca_c05_CGAACATCATTGGCGC	mature NK T cell	Ref20k
+r1_hbca_c46_ACCTGAACACCAGTAT	fibroblast	Ref20k
+hbca_c155_hbca_c155_CATGCGGAGAATTGCA-1	basal cell	Ref20k
+r2_hbca_c99_GTGCTTCCACTTGAAC-1	fibroblast	Ref20k
+hbca_c122_hbca_c122_GTGTCCTCAATACGAA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_CCTGCATAGGAGGGTG	capillary endothelial cell	Ref20k
+hbca_c166_hbca_c166_CATTCTAAGCCTCAAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c134_hbca_c134_AGGGCCTCAATTGAAG-1	fibroblast	Ref20k
+hbca_c102_hbca_c102_CCGTTCATCAGACCGC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c48_GGAATGGAGGCACTCC-1	fibroblast	Ref20k
+hbca_c111_hbca_c111_ATCGGATGTTACCTGA-1	natural killer cell	Ref20k
+r2_hbca_c97_GAGTGAGAGCAGCAGT-1	basal cell	Ref20k
+r2_hbca_c92_TACCCACGTGGTACAG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c95_CGTAATGAGTCCGCGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c96_GTTACGATCAGGAAAT-1	vein endothelial cell	Ref20k
+r2_hbca_c88_GACCCAGCAGCTTCGG-1	alternatively activated macrophage	Ref20k
+hbca_c152_hbca_c152_GTCTACCGTCCCGCAA-1	vein endothelial cell	Ref20k
+hbca_c106_hbca_c106_CCACACTTCGTTACCC-1	fibroblast	Ref20k
+hbca_c144_hbca_c144_TCATCATTCGCAAGAG-1	vein endothelial cell	Ref20k
+hbca_c112_hbca_c112_GGGACTCAGGTGATAT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c46_ATCATTCGTCTCTCCA-1	vein endothelial cell	Ref20k
+hbca_c163_hbca_c163_ACCTGAAGTACTGTTG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c138_hbca_c138_ACGATCATCGTGTGAT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c51_AAACGAATCTTCGTAT-1	vein endothelial cell	Ref20k
+r2_hbca_c56_TGCATCCCACGTACTA-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_TTGTTGTTCGTCAACA-1	fibroblast	Ref20k
+r2_hbca_c100_CGTTCTGCAGACACCC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c66_CCACGTTTCTAATTCC-1	capillary endothelial cell	Ref20k
+hbca_c154_hbca_c154_TCCTCGATCCTACTGC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c66_TGTTGGAGTGATGGCA-1	fibroblast	Ref20k
+hbca_c107_hbca_c107_AAGACTCAGACATCCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c166_hbca_c166_ACTCCCATCTCTAGGA-1	CD4-positive helper T cell	Ref20k
+hbca_c133_hbca_c133_TTCCGGTTCAATCTCT-1	vascular associated smooth muscle cell	Ref20k
+hbca_c149_hbca_c149_AACAAAGCACAGCATT-1	vein endothelial cell	Ref20k
+r2_hbca_c90_CAACAACCATCGCTGG-1	CD4-positive helper T cell	Ref20k
+hbca_c136_hbca_c136_TGAATGCTCTGAGAGG-1	fibroblast	Ref20k
+hbca_c133_hbca_c133_CTTCCGACAGAACGCA-1	fibroblast	Ref20k
+r1_hbca_c32_TCTTGCGGTTCGCGTG	fibroblast	Ref20k
+hbca_c125_hbca_c125_TACTTACAGGCGATAC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c141_hbca_c141_TTGTGTTGTAACCCGC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_GTTAAGCCAAGCTGAG	basal cell	Ref20k
+r2_hbca_c65_AGGATCTAGTGAATAC-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_TAATCTCAGTGATAGT-1	fibroblast	Ref20k
+hbca_c146_hbca_c146_ATGCATGCACTTCATT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c129_hbca_c129_TCACAAGTCGTAACTG-1	fibroblast	Ref20k
+r2_hbca_c76_AGTCAACCACCTCTGT-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_TGTGTGACACCATAAC-1	pericyte	Ref20k
+hbca_c107_hbca_c107_GGCTGTGCACGTATAC-1	basal cell	Ref20k
+hbca_c132_hbca_c132_CTCTCGAGTCTACGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c23_AATCGGTTCGTAGGAG	basal cell	Ref20k
+r2_hbca_c48_AGATCCATCTTAGGAC-1	basal cell	Ref20k
+r1_hbca_c37_GAGATGGGTAGTGCGA	fibroblast	Ref20k
+hbca_c163_hbca_c163_CGCATAATCGAGAATA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c87_GAAGGGTAGCTGACAG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c106_hbca_c106_AGTTCGATCGAACTCA-1	fibroblast	Ref20k
+hbca_c105_hbca_c105_TACCCACTCGAGAATA-1	fibroblast	Ref20k
+hbca_c164_hbca_c164_TACGTCCCAGCTGCCA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c76_GCGGAAATCAAATAGG-1	fibroblast	Ref20k
+r2_hbca_c67_ACAAGCTCAGTCGCAC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c162_hbca_c162_ATACCTTGTCGGTACC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c12_AGAGCTTCATGAGCGA	endothelial cell of lymphatic vessel	Ref20k
+hbca_c115_hbca_c115_TAGATCGGTTTCGGCG-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c148_hbca_c148_GATTCGATCTTAGCTT-1	basal cell	Ref20k
+r2_hbca_c67_GCTTCACTCTATCGTT-1	capillary endothelial cell	Ref20k
+hbca_c130_hbca_c130_AATGCCACATAGGAGC-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_TATCTGTTCCATCAGA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c85_AGCGCCAGTATGAGGC-1	capillary endothelial cell	Ref20k
+hbca_c138_hbca_c138_TGATTTCTCGACGCTG-1	basal cell	Ref20k
+hbca_c160_hbca_c160_TATCGCCCACAGTGTT-1	fibroblast	Ref20k
+hbca_c152_hbca_c152_CTACCTGGTCGCTTAA-1	basal cell	Ref20k
+r1_hbca_c47_GTGTCCTTCAACTACG	fibroblast	Ref20k
+r1_hbca_c27_GGACAAGAGCGTGAGT	basal cell	Ref20k
+r2_hbca_c97_TCCTGCAAGATAACGT-1	basal cell	Ref20k
+hbca_c134_hbca_c134_TGTTACTTCTCGCCTA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_AACCATGTCAATAAGG	fibroblast	Ref20k
+r1_hbca_c30_CGTAGGCGTACCTACA	basal cell	Ref20k
+hbca_c156_hbca_c156_AGACTCACAGAGGTTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c22_ACATGGTGTAAAGGAG	basal cell	Ref20k
+r2_hbca_c83_GCACGTGAGATTGGGC-1	capillary endothelial cell	Ref20k
+r2_hbca_c63_CCTCACAAGACATCCT-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c70_GAACGTTTCACTACGA-1	conventional dendritic cell	Ref20k
+hbca_c127_hbca_c127_GACGTTATCACGATCA-1	basal cell	Ref20k
+hbca_c103_hbca_c103_TCCTTCTTCTAGGCAT-1	fibroblast	Ref20k
+r1_hbca_c41_TCCACGTCAGGTTTAC	non-classical monocyte	Ref20k
+r2_hbca_c88_GTGGAGAGTAAGGCTG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c143_hbca_c143_GAGGGTACAGCGTTTA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_ATCCGTCCAGCAGTAG-1	fibroblast	Ref20k
+hbca_c144_hbca_c144_AAGGTAAAGGCCTAGA-1	basal cell	Ref20k
+hbca_c152_hbca_c152_CAGTGCGCAGCGGTCT-1	capillary endothelial cell	Ref20k
+r2_hbca_c49_GAGACTTAGGGTGGGA-1	vein endothelial cell	Ref20k
+hbca_c102_hbca_c102_CCTCCTCCAAGTCCCG-1	basal cell	Ref20k
+hbca_c153_hbca_c153_CAGCGTGGTGTGAATA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c90_AACCCAAAGGTTGGTG-1	basal cell	Ref20k
+r1_hbca_c22_CCTACACAGCCCAGCT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c164_hbca_c164_ACGATCAGTACAAACA-1	pericyte	Ref20k
+r1_hbca_c03_CACATAGCACGAGAGT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c119_hbca_c119_TGCTTGCGTCACGACC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c142_hbca_c142_TATTGGGCATGTGCCG-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c68_CCACTTGCAACACTAC-1	fibroblast	Ref20k
+r1_hbca_c24_TGCTGCTAGAGCCTAG	vein endothelial cell	Ref20k
+hbca_c122_hbca_c122_CAGATTGGTGTAAATG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c16_TACTTACAGGACATTA	fibroblast	Ref20k
+r1_hbca_c51_CGTTGGGAGGGCTGAT	pericyte	Ref20k
+r2_hbca_c97_GTCACTCGTCTTTCAT-1	CD4-positive helper T cell	Ref20k
+hbca_c111_hbca_c111_ATCGCCTCAGTCCGTG-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c142_hbca_c142_CAGATACCATAACCCA-1	fibroblast	Ref20k
+r2_hbca_c100_GCCCGAAGTCTCTCTG-1	mammary gland epithelial cell	Ref20k
+hbca_c109_hbca_c109_ATCGCCTCACCGCTAG-1	fibroblast	Ref20k
+r1_hbca_c36_CGAATTGAGCAAGTGC	alternatively activated macrophage	Ref20k
+hbca_c132_hbca_c132_ATCGGATCATGCCGCA-1	capillary endothelial cell	Ref20k
+hbca_c134_hbca_c134_GATCAGTAGTTCACTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_TAAGTCGTCCCATACC-1	basal cell	Ref20k
+hbca_c151_hbca_c151_CTTACCGTCAAACCCA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c73_GGTAACTCAAGAGGTC-1	fibroblast	Ref20k
+r2_hbca_c89_TTTCCTCTCGTTAGTG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c57_CAGTTAGTCTCATGCC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c75_CAGATCACAACCGGAA-1	fibroblast	Ref20k
+r2_hbca_c60_CAACGATGTCCTGTTC-1	basal cell	Ref20k
+hbca_c149_hbca_c149_CCGATGGAGCGGTAGT-1	mast cell	Ref20k
+hbca_c134_hbca_c134_GATCGTAAGACTCATC-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c26_GTTCATTCAAGGTGTG	basal cell	Ref20k
+hbca_c140_hbca_c140_TGTCCCAAGATGCGAC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c59_TCCTTTCCACCGTCGA-1	fibroblast	Ref20k
+r1_hbca_c51_ATTCCCGCAGACGCTC	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c143_hbca_c143_CTGGCAGAGGCATGGT-1	capillary endothelial cell	Ref20k
+hbca_c131_hbca_c131_CACCGTTCAATGAGCG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c127_hbca_c127_ACTTCGCCAAGGCCTC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c114_hbca_c114_TTTATGCTCCCATTCG-1	fibroblast	Ref20k
+r2_hbca_c76_ACACTGAAGCACCTGC-1	alternatively activated macrophage	Ref20k
+r2_hbca_c78_CCCTAACAGACAGCGT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_ATATCCTAGGTCCGAA	capillary endothelial cell	Ref20k
+hbca_c156_hbca_c156_CTCACTGAGACGGAAA-1	fibroblast	Ref20k
+hbca_c145_hbca_c145_ATCAGGTTCGGTCACG-1	class switched memory B cell	Ref20k
+hbca_c139_hbca_c139_CCCGAAGTCTTTCCGG-1	fibroblast	Ref20k
+r2_hbca_c66_CGCCATTTCTGGCCTT-1	fibroblast	Ref20k
+r1_hbca_c22_CTTTGCGCACAAGACG	vein endothelial cell	Ref20k
+hbca_c103_hbca_c103_CATTGCCAGGACAGCT-1	basal cell	Ref20k
+r1_hbca_c21_GGAACTTAGTTTGCGT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c115_hbca_c115_CTTGAGAAGCGACTTT-1	alternatively activated macrophage	Ref20k
+r1_hbca_c29_GGGCACTGTCATTAGC	basal cell	Ref20k
+hbca_c131_hbca_c131_CCCGAAGTCGAGATAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c146_hbca_c146_GTAACCACATCGAGCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c51_CACTTCGTCTGGTGGC	pericyte	Ref20k
+hbca_c128_hbca_c128_GCACTAACATGCCGCA-1	fibroblast	Ref20k
+hbca_c105_hbca_c105_GGTTGTAAGCTCTGTA-1	basal cell	Ref20k
+hbca_c111_hbca_c111_TACCTCGGTGAACCGA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c106_hbca_c106_TCGCTTGTCCCTAGGG-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_CATCCGTGTCGTCAGC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c106_hbca_c106_TACTTCAAGGATTACA-1	vein endothelial cell	Ref20k
+r2_hbca_c49_TGTTCATCAGATGCGA-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_TAGGGTTCACAACGCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c157_hbca_c157_CATCCCACATTGCTGA-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_GTTGAACTCAGATGCT-1	fibroblast	Ref20k
+r1_hbca_c18_CACACAAGTGTGTGCC	gamma-delta T cell	Ref20k
+hbca_c115_hbca_c115_TGCATGAAGGACATCG-1	natural killer cell	Ref20k
+r2_hbca_c55_TTCATGTCAGCTATTG-1	basal cell	Ref20k
+r1_hbca_c09_CCCATACGTGATGATA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c137_hbca_c137_AAAGAACAGGTGCATG-1	basal cell	Ref20k
+r2_hbca_c69_CACCAAACATACCACA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c150_hbca_c150_AGGGAGTCATGCCATA-1	neutrophil	Ref20k
+r1_hbca_c29_GCTGCGATCATAACCG	basal cell	Ref20k
+r1_hbca_c39_AGGTTACAGATCCGAG	fibroblast	Ref20k
+r1_hbca_c52_TTTACCATCAACACCA	fibroblast	Ref20k
+hbca_c167_hbca_c167_GTGCGTGCACAGTGTT-1	basal cell	Ref20k
+hbca_c136_hbca_c136_CAGGTATTCGCATTGA-1	mammary gland epithelial cell	Ref20k
+hbca_c142_hbca_c142_CTCAGAAAGCGGTATG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c107_hbca_c107_CAAAGAAAGTCGTCTA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c113_hbca_c113_CTCAGTCCATCGTGGC-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_CTGTATTGTGGTTCTA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c21_TACTCGCTCGGAAATA	vein endothelial cell	Ref20k
+r1_hbca_c17_TCGAGGCAGACAATAC	alternatively activated macrophage	Ref20k
+hbca_c134_hbca_c134_AGTTCGACACTTGGCG-1	basal cell	Ref20k
+r1_hbca_c05_GCAGCCAGTTGTGGCC	fibroblast	Ref20k
+hbca_c122_hbca_c122_ATTATCCTCTTAGCTT-1	basal cell	Ref20k
+hbca_c111_hbca_c111_TTTGACTAGTGATTCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c121_hbca_c121_TATGTTCGTGCCCGTA-1	macrophage	Ref20k
+hbca_c137_hbca_c137_TTGCCTGGTGCATCTA-1	basal cell	Ref20k
+hbca_c126_hbca_c126_GGTCTGGTCGGTGTAT-1	fibroblast	Ref20k
+hbca_c120_hbca_c120_TTCTTGACAAAGGAGA-1	capillary endothelial cell	Ref20k
+r2_hbca_c54_GTGGGAATCTCAGTCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c17_CTTAGGACATACAGCT	T cell	Ref20k
+r2_hbca_c84_AGGACGAAGCCGATAG-1	fibroblast	Ref20k
+r1_hbca_c32_GTTGCGGCATGAGGGT	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c49_CGCCATTCATGACAAA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c54_TTTGGAGAGAGAACCC-1	basal cell	Ref20k
+r1_hbca_c49_CTTCCTTGTTTCACAG	basal cell	Ref20k
+r2_hbca_c89_CTACCCAAGGACACTG-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_TTTATGCAGGCGACAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c34_TCGGATAGTAACTGCT	capillary endothelial cell	Ref20k
+r1_hbca_c49_AATTTCCAGTACTGTC	CD4-positive helper T cell	Ref20k
+hbca_c133_hbca_c133_GACATCAAGCCATTTG-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_GCTACCTAGTTTCTTC-1	basal cell	Ref20k
+hbca_c153_hbca_c153_ATGGGAGCAAATTGGA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c78_ATAGGCTCACATAGCT-1	basal cell	Ref20k
+hbca_c149_hbca_c149_ACCCAAAAGTAGATCA-1	mammary gland epithelial cell	Ref20k
+hbca_c138_hbca_c138_CCTCACATCTGACCCT-1	fibroblast	Ref20k
+r1_hbca_c05_ACGGGTCTCCCTCTTT	fibroblast	Ref20k
+hbca_c128_hbca_c128_TACAACGAGGATATAC-1	fibroblast	Ref20k
+r1_hbca_c28_CGCTGGACATACCATG	fibroblast	Ref20k
+r2_hbca_c81_CATTCCGTCCTCCACA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c162_hbca_c162_CGTTCTGGTTAGAGAT-1	basal cell	Ref20k
+r1_hbca_c14_CTCTACGGTGAGCGAT	fibroblast	Ref20k
+hbca_c153_hbca_c153_ATGGGTTGTAGCTCGC-1	fibroblast	Ref20k
+hbca_c148_hbca_c148_CTGAATGTCTTTGCAT-1	basal cell	Ref20k
+hbca_c107_hbca_c107_ACTGTCCGTTCAACGT-1	basal cell	Ref20k
+hbca_c109_hbca_c109_TGACTCCTCCTTACCG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c148_hbca_c148_CTCAGGGCATTCTGTT-1	vein endothelial cell	Ref20k
+r1_hbca_c50_GACTCAATCTCCCATG	vein endothelial cell	Ref20k
+r2_hbca_c92_ATCCCTGCATGAATCC-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c84_CCTGTTGGTGATCATC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c37_GGGTTTAAGAGTCCGA	pericyte	Ref20k
+r1_hbca_c34_TTATTGCGTCGTCATA	fibroblast	Ref20k
+hbca_c115_hbca_c115_ACTGATGAGAATGTTG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c78_TAGCACACATGTGGCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c17_CAGCATACATGGTAGG	alternatively activated macrophage	Ref20k
+hbca_c114_hbca_c114_ACTATCTCACCTGATA-1	inflammatory macrophage	Ref20k
+hbca_c129_hbca_c129_CTAACCCTCTCATTTG-1	fibroblast	Ref20k
+hbca_c158_hbca_c158_TCACATTAGATAGTGT-1	fibroblast	Ref20k
+hbca_c103_hbca_c103_ACACCAAGTTCGGGTC-1	fibroblast	Ref20k
+r1_hbca_c29_GCTCTGTCACTGTGTA	basal cell	Ref20k
+r1_hbca_c14_TGGCCAGGTTGCTCCT	endothelial cell of lymphatic vessel	Ref20k
+hbca_c138_hbca_c138_TTATTGCGTGAACGGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c121_hbca_c121_ACGTAACGTGCTATTG-1	fibroblast	Ref20k
+r2_hbca_c97_AGCCAATTCGAACGCC-1	basal cell	Ref20k
+hbca_c134_hbca_c134_TTGTTTGAGGCCACCT-1	vein endothelial cell	Ref20k
+r1_hbca_c21_GCGCGATTCTGGTATG	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c26_CTAATGGAGTGGGTTG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c132_hbca_c132_GTGACGCTCGTAGTGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c68_ACAGGGATCTGCCCTA-1	fibroblast	Ref20k
+hbca_c135_hbca_c135_ACTCTCGCAATCGCCG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c128_hbca_c128_GCCAGCAGTGTGGACA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c50_CATCAAGCACAGCCAC	fibroblast	Ref20k
+hbca_c148_hbca_c148_ACTATCTTCGTAGAGG-1	basal cell	Ref20k
+hbca_c121_hbca_c121_ACCCAAACAGCTCCTT-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c138_hbca_c138_ACTTCCGAGCATAGGC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c28_CAGCAGCGTCGTCTTC	mammary gland epithelial cell	Ref20k
+r2_hbca_c94_CGATGGCGTGTCCTAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c167_hbca_c167_TGCCGAGAGACTCTAC-1	fibroblast	Ref20k
+hbca_c146_hbca_c146_CCATAAGCAGCCGTTG-1	fibroblast	Ref20k
+hbca_c129_hbca_c129_CAATTTCAGCGTTACT-1	basal cell	Ref20k
+r2_hbca_c94_TAACTTCGTGCACATT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c94_TAGTGCATCGCAGTCG-1	fibroblast	Ref20k
+r2_hbca_c48_GTGCACGAGGTAAGTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_ATTACCTCAGAGATGC-1	mammary gland epithelial cell	Ref20k
+hbca_c102_hbca_c102_TTCCTAACAGTCCCGA-1	fibroblast	Ref20k
+r1_hbca_c23_TCTTCGGGTTCCGTCT	fibroblast	Ref20k
+r2_hbca_c74_GAACACTCAAGGCAAC-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_CTGCTCAAGCAACCAG-1	fibroblast	Ref20k
+hbca_c127_hbca_c127_TCCGTGTGTAGAGCTG-1	alternatively activated macrophage	Ref20k
+hbca_c148_hbca_c148_GACCAATAGGCGTTGA-1	basal cell	Ref20k
+hbca_c128_hbca_c128_CCTCAGTCAGAACATA-1	CD4-positive helper T cell	Ref20k
+hbca_c156_hbca_c156_ACCAACATCGAAGTGG-1	fibroblast	Ref20k
+r2_hbca_c62_GGGAGTAGTCGAGTGA-1	naive B cell	Ref20k
+hbca_c162_hbca_c162_GCCAGTGAGTGGCCTC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c22_GGGAGATAGGCACATG	vein endothelial cell	Ref20k
+r2_hbca_c98_ACATCCCAGAACCGCA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c113_hbca_c113_TGCATCCAGGGTCACA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c64_CGTAAGTGTCTTTATC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c142_hbca_c142_GGAGAACGTTGCCTAA-1	basal cell	Ref20k
+hbca_c125_hbca_c125_TGTTTGTTCGACACCG-1	basal cell	Ref20k
+r2_hbca_c73_CTGGACGAGTTGCGCC-1	fibroblast	Ref20k
+hbca_c126_hbca_c126_TCGGTCTCAAGAAACT-1	mammary gland epithelial cell	Ref20k
+hbca_c155_hbca_c155_TCCATCGGTTCTCTAT-1	endothelial cell of artery	Ref20k
+hbca_c122_hbca_c122_GTGCTTCTCCTCTTTC-1	fibroblast	Ref20k
+r1_hbca_c22_CCTTCCCTCATTCACT	basal cell	Ref20k
+hbca_c101_hbca_c101_ATTACTCTCCCTTCCC-1	basal cell	Ref20k
+hbca_c150_hbca_c150_TCTTGCGCACACAGAG-1	mammary gland epithelial cell	Ref20k
+hbca_c148_hbca_c148_GAGTGTTCAAATGGCG-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c22_AATCGGTAGGTGACCA	basal cell	Ref20k
+r2_hbca_c78_ACTGCAACACGGAAGT-1	vein endothelial cell	Ref20k
+hbca_c136_hbca_c136_CAGCACGAGTCCCAAT-1	mammary gland epithelial cell	Ref20k
+hbca_c124_hbca_c124_ACTATCTGTCCTGTTC-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c82_GGGTGTCAGATTCGCT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_CTACACCGTCAGTGGA	fibroblast	Ref20k
+hbca_c158_hbca_c158_AGAGAATGTAACCCTA-1	fibroblast	Ref20k
+r2_hbca_c100_TCATGAGTCGTTCCCA-1	fibroblast	Ref20k
+r2_hbca_c73_TAACACGAGATTCGAA-1	CD4-positive, alpha-beta T cell	Ref20k
+hbca_c143_hbca_c143_GGACGTCGTCTCCCTA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c159_hbca_c159_TGTGGCGCAACTGAAA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c132_hbca_c132_ATGACCACAGTCAGAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c155_hbca_c155_TTTATGCTCTAGCCAA-1	vein endothelial cell	Ref20k
+r1_hbca_c35_AGAAGTACATCGAGCC	basal cell	Ref20k
+r1_hbca_c30_TTAGGACTCTGCAGTA	basal cell	Ref20k
+hbca_c146_hbca_c146_CATGAGTCATACCGTA-1	fibroblast	Ref20k
+r2_hbca_c99_CACAACACATGCCGAC-1	basal cell	Ref20k
+hbca_c146_hbca_c146_AGAAGCGAGCCTCCAG-1	fibroblast	Ref20k
+r2_hbca_c84_AGACCATTCGGCACTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_GGGTGTCCAGGAATAT	fibroblast	Ref20k
+hbca_c154_hbca_c154_CTGCGAGCAGGATCTT-1	basal cell	Ref20k
+r1_hbca_c51_TGGAACTGTGTTCGAT	fibroblast	Ref20k
+hbca_c124_hbca_c124_TATCTTGGTATGACAA-1	pericyte	Ref20k
+r2_hbca_c53_TAACCAGTCGTAGAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c150_hbca_c150_AGGCATTGTTCCTAGA-1	fibroblast	Ref20k
+r1_hbca_c52_CTGCGAGCATAATGAG	capillary endothelial cell	Ref20k
+r2_hbca_c53_TCTACATAGCTGAGCA-1	activated CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c74_CCTTCAGTCTAGTGAC-1	fibroblast	Ref20k
+r2_hbca_c59_GACATCAAGTAGCCAG-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_AGACTCAAGTCACTGT-1	vein endothelial cell	Ref20k
+hbca_c163_hbca_c163_TTGAGTGGTAACGATA-1	basal cell	Ref20k
+hbca_c138_hbca_c138_CATTCCGGTTTCAGAC-1	basal cell	Ref20k
+r2_hbca_c75_AGAGCAGAGCAACCAG-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_TCATACTAGTATAGGT-1	vein endothelial cell	Ref20k
+hbca_c133_hbca_c133_GATGTTGCAGCGTACC-1	fibroblast	Ref20k
+hbca_c112_hbca_c112_AGGTGTTAGAGCAGTC-1	basal cell	Ref20k
+hbca_c143_hbca_c143_GAGTCTAGTCCACATA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c107_hbca_c107_ATTACTCTCTACGCAA-1	inflammatory macrophage	Ref20k
+r2_hbca_c90_CACGGGTTCCACTGGG-1	fibroblast	Ref20k
+r2_hbca_c70_CATCCCACAATAAGGT-1	fibroblast	Ref20k
+r1_hbca_c45_ATCACAGAGGACACTG	capillary endothelial cell	Ref20k
+r2_hbca_c50_CATACAGCAAGATGGC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c137_hbca_c137_TCTCCGATCCCAGTGG-1	vein endothelial cell	Ref20k
+hbca_c114_hbca_c114_ACCAAACTCCGTGGGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c46_CAACCAAAGTAAGAGG-1	fibroblast	Ref20k
+hbca_c111_hbca_c111_AAGCGTTGTAATCAGA-1	fibroblast	Ref20k
+r1_hbca_c27_GCCTCTAGTTTGGCGC	mammary gland epithelial cell	Ref20k
+hbca_c152_hbca_c152_CCTCCAACACTATCCC-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c49_ATGCGATAGGCGAAGG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c154_hbca_c154_GGGACCTCAGCGTAGA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c86_CTGAGCGCAATAGTCC-1	fibroblast	Ref20k
+r2_hbca_c70_GCTACCTGTCTAGTGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c46_CGTTCTGTCCAAATGC-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_GGTCTGGGTTTCGTAG-1	vein endothelial cell	Ref20k
+r1_hbca_c43_TGGATGTTCCCTTGGT	capillary endothelial cell	Ref20k
+hbca_c103_hbca_c103_GTGATGTCATGTAACC-1	fibroblast	Ref20k
+r1_hbca_c23_ACATCAGCATGTAGTC	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c07_CATATTCCAAGCCTAT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c105_hbca_c105_GGGTCTGCAGCCTATA-1	basal cell	Ref20k
+r2_hbca_c71_CTTCGGTAGCAGGGAG-1	alternatively activated macrophage	Ref20k
+r2_hbca_c73_GGAAGTGAGGCCTTCG-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_TATCCTATCGACACCG-1	vein endothelial cell	Ref20k
+hbca_c142_hbca_c142_TTCGCTGCACTGGCGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c134_hbca_c134_AGTTCCCCATGACGTT-1	fibroblast	Ref20k
+r1_hbca_c33_AGGACGAGTCTCGGGT	alternatively activated macrophage	Ref20k
+hbca_c133_hbca_c133_AGGACGATCACCGCTT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c84_ATACCTTTCATCGCAA-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c70_ACATGCACATGGGCAA-1	capillary endothelial cell	Ref20k
+r2_hbca_c71_CATAAGCGTAAGCGGT-1	fibroblast	Ref20k
+r1_hbca_c52_GGGAGTACACGTTCGG	fibroblast	Ref20k
+hbca_c149_hbca_c149_TATCGCCTCTACGGGC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c107_hbca_c107_GTCCACTAGGATACAT-1	capillary endothelial cell	Ref20k
+r1_hbca_c28_ACCGTAAGTTGAGGTG	fibroblast	Ref20k
+r1_hbca_c30_CTGAAACGTATATGGA	fibroblast	Ref20k
+r2_hbca_c81_CATGAGTCAGAGAAAG-1	fibroblast	Ref20k
+hbca_c127_hbca_c127_TGTTCCGAGTGGAAAG-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_TAGGTTGTCGGCAGTC-1	fibroblast	Ref20k
+r2_hbca_c81_CCAATGACACAATGTC-1	fibroblast	Ref20k
+r2_hbca_c70_TTACGTTTCTTGAGCA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c108_hbca_c108_ATCATTCCAAGGCCTC-1	capillary endothelial cell	Ref20k
+hbca_c121_hbca_c121_TTGGGTATCTACAGGT-1	fibroblast	Ref20k
+hbca_c101_hbca_c101_GTCGTAAAGATGGGCT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c38_GGGACCTGTTGCAAGG	classical monocyte	Ref20k
+r1_hbca_c07_TTCTCAAAGACTGTAA	vein endothelial cell	Ref20k
+r2_hbca_c81_TGATCTTAGTCGAAAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c119_hbca_c119_CTACTATCAACACAGG-1	CD4-positive helper T cell	Ref20k
+hbca_c151_hbca_c151_ACCTGTCCACAAGCAG-1	vein endothelial cell	Ref20k
+r2_hbca_c89_AAGATAGGTTCATCTT-1	natural killer cell	Ref20k
+hbca_c117_hbca_c117_GGGTATTGTTCAAGTC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c133_hbca_c133_GAGACCCAGATACCAA-1	capillary endothelial cell	Ref20k
+r1_hbca_c31_TAGAGCTCAGCTGTTA	pericyte	Ref20k
+hbca_c164_hbca_c164_CATGGTAAGTAGTCTC-1	mammary gland epithelial cell	Ref20k
+hbca_c101_hbca_c101_TCAATCTTCGTCGGGT-1	fibroblast	Ref20k
+hbca_c138_hbca_c138_TTACTGTGTGACACAG-1	fibroblast	Ref20k
+hbca_c155_hbca_c155_GTTAGACGTCTGATAC-1	CD4-positive helper T cell	Ref20k
+hbca_c127_hbca_c127_CGTAAGTAGGCATGCA-1	pericyte	Ref20k
+hbca_c159_hbca_c159_TCTCAGCTCACCCTCA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c162_hbca_c162_GCCAGGTGTTTAGAGA-1	fibroblast	Ref20k
+hbca_c165_hbca_c165_TTGCGTCGTATCTCTT-1	regulatory T cell	Ref20k
+hbca_c108_hbca_c108_TGCTTGCGTTACACTG-1	fibroblast	Ref20k
+hbca_c116_hbca_c116_TTGGATGCAAATGGCG-1	fibroblast	Ref20k
+r1_hbca_c41_TCATGCCTCTCTATAC	vascular associated smooth muscle cell	Ref20k
+hbca_c103_hbca_c103_TGATGGTCAAGCGCTC-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c66_TGCGGCAGTCCTGGGT-1	IgA plasma cell	Ref20k
+r1_hbca_c21_CCTCAGTTCTGATTCT	basal cell	Ref20k
+hbca_c113_hbca_c113_ATCCACCCAAATGCGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c153_hbca_c153_TTGACCCAGCTTTCTT-1	basal cell	Ref20k
+r1_hbca_c32_AGAACAACATTGCCTC	fibroblast	Ref20k
+r1_hbca_c40_AGGGCTCTCTCGACCT	fibroblast	Ref20k
+r1_hbca_c43_CCACCATGTGTATACC	fibroblast	Ref20k
+hbca_c101_hbca_c101_TCAAGTGGTTCTTGCC-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_ATACTTCGTCACGCTG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c100_ATCGATGTCCAACCGG-1	vein endothelial cell	Ref20k
+hbca_c107_hbca_c107_TCATATCCAGTATTCG-1	basal cell	Ref20k
+r1_hbca_c45_CAGATTGCAGTTGGTT	macrophage	Ref20k
+r1_hbca_c47_TTTCATGTCCGTCCTA	alternatively activated macrophage	Ref20k
+hbca_c129_hbca_c129_GTAGATCCACCAGACC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_ACGTAACGTATAATGG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c33_CCGGGTAAGCGAGGAG	vascular associated smooth muscle cell	Ref20k
+hbca_c109_hbca_c109_TACTTACAGGCGTTAG-1	fibroblast	Ref20k
+r2_hbca_c59_CTATCCGGTGGGTTGA-1	regulatory T cell	Ref20k
+hbca_c111_hbca_c111_TTACTGTGTGAGTAGC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_TCATGAGGTGGAACCA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c165_hbca_c165_TGATTTCTCCAAGGGA-1	mammary gland epithelial cell	Ref20k
+hbca_c133_hbca_c133_CCGATGGCACGCCACA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c39_GCATCGGCACTACCGG	CD4-positive helper T cell	Ref20k
+r1_hbca_c48_CCGTAGGTCCGTGGCA	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c44_TGTTACTAGCATTTCG	pericyte	Ref20k
+hbca_c117_hbca_c117_GCTTGGGTCCCTGTTG-1	basal cell	Ref20k
+r2_hbca_c80_ACCAAACTCTCATTGT-1	basal cell	Ref20k
+hbca_c120_hbca_c120_TACATTCGTGTAAACA-1	fibroblast	Ref20k
+r1_hbca_c44_GACAGCCGTACAAGTA	fibroblast	Ref20k
+r2_hbca_c74_ATGAGTCTCTCGTGGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c132_hbca_c132_CTGCCATGTCATCGGC-1	fibroblast	Ref20k
+hbca_c136_hbca_c136_ATACTTCGTCTTCGAA-1	fibroblast	Ref20k
+r2_hbca_c82_GTATTTCAGTAGCTCT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c87_TTACGTTTCCATCTGC-1	basal cell	Ref20k
+r2_hbca_c80_TTCCAATCATGTTCGA-1	fibroblast	Ref20k
+r2_hbca_c46_TTCAGGAAGGGATCAC-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_TGCTTGCTCCTAAACG-1	inflammatory macrophage	Ref20k
+r2_hbca_c91_GTCCACTAGATTAGAC-1	basal cell	Ref20k
+r2_hbca_c73_AGAGCAGGTAACACCT-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_AGCGTCGAGCATAGGC-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_GTTGAACAGTGACCTT-1	fibroblast	Ref20k
+r2_hbca_c78_ATGGGAGAGGGCAGTT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c88_ATGATCGTCACAACCA-1	classical monocyte	Ref20k
+r2_hbca_c70_TAAGCGTCAACTTGGT-1	basal cell	Ref20k
+r1_hbca_c21_GGACATTCAATCAGAA	endothelial cell of artery	Ref20k
+hbca_c141_hbca_c141_TTCCACGAGCTGACAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c152_hbca_c152_ACTCCCATCACGAACT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c21_GTGGGTCGTCCATCCT	vein endothelial cell	Ref20k
+r1_hbca_c46_TTCTAACCACCCTGAG	fibroblast	Ref20k
+hbca_c130_hbca_c130_ACCTGTCGTCTCGGGT-1	basal cell	Ref20k
+hbca_c139_hbca_c139_CCACCATCAACGTTAC-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c27_CGAACATCAGGCGATA	mammary gland epithelial cell	Ref20k
+r2_hbca_c50_TCATACTCAGAACGCA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c71_AATCGTGGTAGTTAGA-1	pericyte	Ref20k
+hbca_c132_hbca_c132_AGGCCACAGACTAAGT-1	naive B cell	Ref20k
+hbca_c103_hbca_c103_TGCTGAATCCCGTTGT-1	inflammatory macrophage	Ref20k
+r1_hbca_c32_GCAGTTAGTCACTCGG	CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c26_GCAGCCAGTATTACCG	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c91_TATCAGGAGTCGTCTA-1	endothelial cell of artery	Ref20k
+r2_hbca_c98_CTCAATTGTCCGGCAT-1	fibroblast	Ref20k
+hbca_c119_hbca_c119_CTACCTGCATATTCGG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c167_hbca_c167_ACGATCACAAAGCTCT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c43_TCGAACAGTTTACCTT	fibroblast	Ref20k
+r1_hbca_c51_TCTACCGTCAAACCTG	fibroblast	Ref20k
+r2_hbca_c65_CAACAACCAAGAAATC-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_CAGATCATCATCACAG-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_TCAAGTGTCCATAAGC-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_CCTTGTGAGATAGGGA-1	basal cell	Ref20k
+hbca_c142_hbca_c142_CTCTGGTAGTAGTCAA-1	alternatively activated macrophage	Ref20k
+r1_hbca_c32_AACCTGAGTCTTTCAT	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c51_GTAACACTCGGTAGAG-1	endothelial cell of artery	Ref20k
+hbca_c166_hbca_c166_CGAGGAAAGTAGGATT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c153_hbca_c153_CCTAACCTCTCTAAGG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c20_AGGCCGTTCAAACCGT	classical monocyte	Ref20k
+hbca_c137_hbca_c137_AGTGACTCAATCCAGT-1	basal cell	Ref20k
+hbca_c130_hbca_c130_AGCTTCCCAGCTGGTC-1	class switched memory B cell	Ref20k
+hbca_c142_hbca_c142_TGAGCATGTACCGGAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c148_hbca_c148_TCACGCTTCTTACGGA-1	fibroblast	Ref20k
+r2_hbca_c82_TACGCTCGTTGTATGC-1	fibroblast	Ref20k
+hbca_c163_hbca_c163_AGAAATGCAATATCCG-1	fibroblast	Ref20k
+hbca_c120_hbca_c120_GTCGTTCGTTGGGACA-1	capillary endothelial cell	Ref20k
+hbca_c128_hbca_c128_CGAATTGCACATTACG-1	capillary endothelial cell	Ref20k
+hbca_c149_hbca_c149_CATGGTACAGTTCCAA-1	basal cell	Ref20k
+hbca_c146_hbca_c146_GATTGGTGTCATCAGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c138_hbca_c138_GTCTAGACATGAAAGT-1	fibroblast	Ref20k
+r1_hbca_c37_TATTCCACAACAGATA	fibroblast	Ref20k
+hbca_c132_hbca_c132_TGACTCCGTTACCTTT-1	fibroblast	Ref20k
+r2_hbca_c72_CGTGAATTCATGCGGC-1	fibroblast	Ref20k
+r1_hbca_c05_TTCTTAGCACTAAGTC	alternatively activated macrophage	Ref20k
+hbca_c115_hbca_c115_CATTCCGTCAGCTCTC-1	basal cell	Ref20k
+hbca_c107_hbca_c107_CGATCGGAGGGAGGTG-1	fibroblast	Ref20k
+hbca_c136_hbca_c136_AGACCATTCTGACCCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_TTCCTCTGTTTGTTCT-1	fibroblast	Ref20k
+r2_hbca_c55_CATTGCCTCCTGCCAT-1	alternatively activated macrophage	Ref20k
+hbca_c167_hbca_c167_GTGCAGCTCGTCGACG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c51_ATCGGCGAGTGTTCAC	CD4-positive helper T cell	Ref20k
+hbca_c120_hbca_c120_ATTCTTGCATACATCG-1	vein endothelial cell	Ref20k
+r1_hbca_c40_CATGCAAAGCTTGTGT	fibroblast	Ref20k
+hbca_c155_hbca_c155_CGAGAAGGTTATTCTC-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c104_hbca_c104_GGATCTACAGCGCGTT-1	basal cell	Ref20k
+r1_hbca_c44_GGTAGAGCAAATGGAT	pericyte	Ref20k
+r2_hbca_c83_GCAACCGGTTACCTGA-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c95_TCATGAGAGCACTCAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_CTCTGGTAGCACCGCT	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c65_CTCAACCCACATATGC-1	fibroblast	Ref20k
+r1_hbca_c32_ATCGATGAGTATAGGT	CD4-positive helper T cell	Ref20k
+r1_hbca_c26_CGTTGGGTCGCACTCT	fibroblast	Ref20k
+hbca_c120_hbca_c120_ACCGTTCAGGTATTGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c103_hbca_c103_GGTCACGCAGTTCCAA-1	pericyte	Ref20k
+hbca_c149_hbca_c149_GGGAGTACATGATGCT-1	vein endothelial cell	Ref20k
+hbca_c116_hbca_c116_AGAGCAGCAGGGTTGA-1	endothelial cell of artery	Ref20k
+hbca_c121_hbca_c121_ACAGGGACAATGCAGG-1	basal cell	Ref20k
+hbca_c102_hbca_c102_CTTGATTGTTCCAAAC-1	fibroblast	Ref20k
+r1_hbca_c26_CTCGTCATCAGCAACT	basal cell	Ref20k
+hbca_c128_hbca_c128_TGTGAGTTCAACCTCC-1	vein endothelial cell	Ref20k
+r1_hbca_c07_CTCGGGAGTTAGATGA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c136_hbca_c136_TACAGGTGTCCTGTCT-1	fibroblast	Ref20k
+r1_hbca_c07_TTCTCAAGTGAGTGAC	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c69_AGCCAGCGTAAGCAAT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c39_AAAGGATCACAGACGA	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c21_GTACTCCTCGTCACGG	vein endothelial cell	Ref20k
+r2_hbca_c84_ACTCCCATCGCAGTCG-1	basal cell	Ref20k
+hbca_c156_hbca_c156_GGATGTTAGCTAAGTA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c129_hbca_c129_TGCCGAGGTTCTATCT-1	fibroblast	Ref20k
+r2_hbca_c46_CTCTGGTAGGATTTAG-1	fibroblast	Ref20k
+hbca_c159_hbca_c159_GACTTCCCAGAGGTAC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c71_CAGATCATCGTCACCT-1	fibroblast	Ref20k
+hbca_c108_hbca_c108_ACACGCGTCGAGAAGC-1	fibroblast	Ref20k
+hbca_c126_hbca_c126_AACAAGAGTTGGAGGT-1	basal cell	Ref20k
+r1_hbca_c24_TGAGGGACAAACCCAT	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c60_GACCGTGGTGCTGCAC-1	fibroblast	Ref20k
+r1_hbca_c30_TGATTTCCATGGAATA	mammary gland epithelial cell	Ref20k
+r1_hbca_c03_TGCTGCTCAGGGATTG	vein endothelial cell	Ref20k
+r2_hbca_c74_GTATTGGGTCCGTTTC-1	basal cell	Ref20k
+r2_hbca_c96_AACGAAATCATAAGGA-1	IgA plasma cell	Ref20k
+r2_hbca_c48_AGAACCTGTTAAACCC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c100_GTCAAACGTATCTCTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c150_hbca_c150_CCTGTTGGTCTTAGTG-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c86_CAGCACGCATGAGGGT-1	basal cell	Ref20k
+hbca_c146_hbca_c146_TCCATCGTCGTCACCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c143_hbca_c143_GTGTTAGCAAACGAGC-1	lymphocyte	Ref20k
+hbca_c107_hbca_c107_TGGTAGTAGCGCTGAA-1	basal cell	Ref20k
+hbca_c120_hbca_c120_ACATGCACACGACAAG-1	fibroblast	Ref20k
+r1_hbca_c50_TGCGATAGTCGACTGC	fibroblast	Ref20k
+hbca_c147_hbca_c147_ATCGTAGAGGTCTTTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c83_ACAGAAATCCCTCAAC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c60_TTAGGGTTCAAATAGG-1	basal cell	Ref20k
+hbca_c165_hbca_c165_CACTGTCAGATCACCT-1	CD4-positive helper T cell	Ref20k
+hbca_c107_hbca_c107_AAGCATCGTCACAATC-1	basal cell	Ref20k
+r1_hbca_c37_AGAGAATTCCTCAGGG	fibroblast	Ref20k
+r2_hbca_c51_AGATAGAAGAGGCTGT-1	vein endothelial cell	Ref20k
+hbca_c146_hbca_c146_TCACGGGTCAACCTCC-1	fibroblast	Ref20k
+hbca_c117_hbca_c117_AAGTGAATCTAGTTCT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c28_ATCATCTTCTTTACAC	fibroblast	Ref20k
+r2_hbca_c67_AGTTAGCCAGTCGCAC-1	pericyte	Ref20k
+r1_hbca_c35_TTGAACGCATGGCCCA	fibroblast	Ref20k
+r2_hbca_c100_CTCAGGGGTCTGTTAG-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c21_GCATGATGTATCGCAT	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_TTCGATTGTCACCTTC	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c05_GCAGTTAAGTACATGA	fibroblast	Ref20k
+hbca_c136_hbca_c136_ATTGTTCAGAGCCATG-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_GTCTGTCTCTGGCCTT-1	fibroblast	Ref20k
+r2_hbca_c88_TAATCTCGTGCCTAAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c37_TGACCCTGTAGAATGT	vein endothelial cell	Ref20k
+r2_hbca_c67_GGCTGTGTCTCCATAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_GGGATGATCTCCATAT	fibroblast	Ref20k
+hbca_c129_hbca_c129_GGTAACTCATAAGCGG-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_CATCCACCATTGCTGA-1	pericyte	Ref20k
+hbca_c155_hbca_c155_TGTGAGTGTAGAGGAA-1	vein endothelial cell	Ref20k
+hbca_c129_hbca_c129_GAACGTTAGGGATCGT-1	basal cell	Ref20k
+hbca_c102_hbca_c102_TACTGCCAGTGCAGCA-1	CD4-positive helper T cell	Ref20k
+hbca_c126_hbca_c126_GCATCTCCAGCGACAA-1	basal cell	Ref20k
+hbca_c121_hbca_c121_GATTCGAAGTTACGGG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c12_GGGCATCGTCCGAACC	endothelial cell of lymphatic vessel	Ref20k
+r2_hbca_c75_ACCAACAGTCTGTGAT-1	basal cell	Ref20k
+r1_hbca_c09_GGATGTTGTCGCGAAA	endothelial cell of lymphatic vessel	Ref20k
+hbca_c133_hbca_c133_CTACCCAGTCTCGCGA-1	capillary endothelial cell	Ref20k
+r2_hbca_c75_TCCCAGTAGGATTACA-1	pericyte	Ref20k
+hbca_c109_hbca_c109_CAGATACCAACGGTAG-1	fibroblast	Ref20k
+hbca_c160_hbca_c160_CGCATGGGTGATTAGA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c148_hbca_c148_AGATAGATCGCATGAT-1	capillary endothelial cell	Ref20k
+hbca_c122_hbca_c122_TCAAGTGCATAAGCAA-1	basal cell	Ref20k
+r1_hbca_c46_ACGTCCTTCCTAGCTC	endothelial cell of artery	Ref20k
+r1_hbca_c43_AGGGAGTCAAGCAATA	fibroblast	Ref20k
+r1_hbca_c21_ACATCAGTCTCGATGA	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c72_CAGCGTGTCGATCCCT-1	pericyte	Ref20k
+r1_hbca_c37_GACCAATTCCTGGGTG	fibroblast	Ref20k
+r2_hbca_c46_AGCTACACAGGAAGTC-1	fibroblast	Ref20k
+r2_hbca_c89_CACCAAATCGTTCGCT-1	vein endothelial cell	Ref20k
+r2_hbca_c53_ACACCAAGTTATCCAG-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c109_hbca_c109_AGCTTCCAGCCAGAGT-1	fibroblast	Ref20k
+r2_hbca_c90_GTCTACCGTTGAATCC-1	fibroblast	Ref20k
+r1_hbca_c03_CAAGGCCTCGACAGCC	endothelial cell of lymphatic vessel	Ref20k
+hbca_c115_hbca_c115_GCCCGAACAACAACAA-1	endothelial cell of artery	Ref20k
+r1_hbca_c47_GATGGAGAGTCATACC	mature NK T cell	Ref20k
+r1_hbca_c52_GACTATGCAAAGAGTT	fibroblast	Ref20k
+hbca_c106_hbca_c106_TATATCCGTACTGTTG-1	fibroblast	Ref20k
+hbca_c119_hbca_c119_ACCTGTCCAATTGCAC-1	basal cell	Ref20k
+r2_hbca_c76_AGACAGGAGGTACATA-1	vein endothelial cell	Ref20k
+hbca_c101_hbca_c101_TTTAGTCGTACGACTT-1	fibroblast	Ref20k
+r2_hbca_c71_TTCCAATGTCTCAGAT-1	fibroblast	Ref20k
+r1_hbca_c12_TTGAACGCATGCCTTC	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c26_TCACAAGCAAGACACG	basal cell	Ref20k
+r1_hbca_c37_AGGACTTTCGTTGTGA	fibroblast	Ref20k
+hbca_c132_hbca_c132_GGAATCTGTGTCTCCT-1	pericyte	Ref20k
+r2_hbca_c60_GAGTGTTTCTGAATGC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c90_ATATCCTGTCGTGGTC-1	fibroblast	Ref20k
+r1_hbca_c51_ACCATTTCACTCATAG	endothelial cell of artery	Ref20k
+r2_hbca_c95_TTGTTGTTCGCCTAGG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c29_GAACGGATCATCTGCC	basal cell	Ref20k
+r2_hbca_c56_AATTCCTGTGCTCGTG-1	fibroblast	Ref20k
+r2_hbca_c92_CAGCCAGAGGTCGACA-1	CD4-positive helper T cell	Ref20k
+hbca_c116_hbca_c116_CATGCTCGTCCGATCG-1	CD4-positive helper T cell	Ref20k
+hbca_c135_hbca_c135_TCAAGTGAGCTAAACA-1	fibroblast	Ref20k
+r1_hbca_c51_CGTTGGGCATCGGATT	fibroblast	Ref20k
+r2_hbca_c73_GCCATTCTCATTTGCT-1	classical monocyte	Ref20k
+r2_hbca_c66_TCATATCCACACGCCA-1	fibroblast	Ref20k
+r2_hbca_c56_CACATGATCGCCATAA-1	macrophage	Ref20k
+r1_hbca_c10_TCTTTCCAGAGGTAGA	fibroblast	Ref20k
+hbca_c111_hbca_c111_AACGGGAAGTAGTGCG-1	fibroblast	Ref20k
+r2_hbca_c98_ACCACAATCACCATCC-1	fibroblast	Ref20k
+hbca_c159_hbca_c159_GTATTGGCATATGCGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c143_hbca_c143_CACAGGCGTGATAGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c40_CATTCTATCCGACGGT	CD4-positive helper T cell	Ref20k
+r2_hbca_c75_CACAACAGTTCCCAAA-1	fibroblast	Ref20k
+hbca_c140_hbca_c140_ATCGGATAGCGCGTTC-1	basal cell	Ref20k
+hbca_c153_hbca_c153_CACTGGGTCAAGTCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_GGTGATTTCCCGAGGT	inflammatory macrophage	Ref20k
+hbca_c131_hbca_c131_TCCTTTCGTTCAAAGA-1	pericyte	Ref20k
+r2_hbca_c53_TCGACGGAGTAAACTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c108_hbca_c108_TTCAGGACAATGTTGC-1	fibroblast	Ref20k
+hbca_c107_hbca_c107_GGAGGATGTAATACCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c133_hbca_c133_GTTACAGGTTGGACCC-1	regulatory T cell	Ref20k
+r1_hbca_c21_CTAGCCTGTGCTTCTC	vascular associated smooth muscle cell	Ref20k
+hbca_c144_hbca_c144_ATGTCCCCAGAGGCTA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c86_ACTCTCGCAATGTGGG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c56_TTTGGTTGTACGTAGG-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c48_GCTTCACAGCTACTGT	basal cell	Ref20k
+hbca_c162_hbca_c162_AGGACTTGTTCGGCGT-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_CGGTCAGTCCTCTTTC-1	IgA plasma cell	Ref20k
+r1_hbca_c29_GAGTCCGCAATAACGA	fibroblast	Ref20k
+hbca_c167_hbca_c167_CGAAGTTGTTTCGTAG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c46_GTATTGGGTATGCGTT-1	pericyte	Ref20k
+hbca_c118_hbca_c118_TGCCGAGGTGCAATGG-1	pericyte	Ref20k
+hbca_c149_hbca_c149_TCCGATCGTGACCGTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c49_GAGTGAGAGGCCATAG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c154_hbca_c154_ACCCTTGGTGGGTCAA-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c21_CTGCTGTGTGCACCAC	basal cell	Ref20k
+hbca_c151_hbca_c151_CCTAACCCATCTATCT-1	vein endothelial cell	Ref20k
+r1_hbca_c23_AGGGATGAGTGTCTCA	pericyte	Ref20k
+r2_hbca_c56_ATACTTCTCACACCGG-1	fibroblast	Ref20k
+hbca_c128_hbca_c128_AGACAGGAGACGACTG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c154_hbca_c154_TTGTTGTGTTACAGCT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c26_CTACCCAAGTCGATAA	basal cell	Ref20k
+r1_hbca_c50_GATCACAGTCAGCTTA	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c49_ACAGAAACAATAACGA	endothelial cell of artery	Ref20k
+r1_hbca_c51_AGACTCAAGGAAGAAC	fibroblast	Ref20k
+r1_hbca_c03_TCGGGACGTTAGGGTG	vein endothelial cell	Ref20k
+r1_hbca_c24_TGCTGCTGTAGGGTAC	luminal epithelial cell of mammary gland	Ref20k
+hbca_c134_hbca_c134_AAAGAACTCGCGTAGC-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_AGGGCTCTCAGTCTTT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c32_GTGAGGATCCGACATA	fibroblast	Ref20k
+r2_hbca_c60_GTTCGCTTCGACGCTG-1	activated CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c71_TTGGTTTTCGCCTATC-1	fibroblast	Ref20k
+hbca_c124_hbca_c124_TTTGATCCATGCACTA-1	basal cell	Ref20k
+hbca_c161_hbca_c161_TGCCGAGAGTGGACTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c94_AGGGCCTCACATTGTG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c37_AGACCCGTCAAATGAG	fibroblast	Ref20k
+r2_hbca_c74_CTTTCAACACTTGGCG-1	fibroblast	Ref20k
+hbca_c120_hbca_c120_TCAGCAACAACGGCTC-1	fibroblast	Ref20k
+r1_hbca_c22_TAAGCGTTCACCTTAT	endothelial cell of artery	Ref20k
+r1_hbca_c27_TCAACGAGTCAAAGCG	mammary gland epithelial cell	Ref20k
+hbca_c134_hbca_c134_AACTTCTTCCACTAGA-1	basal cell	Ref20k
+hbca_c153_hbca_c153_ATGTCCCGTCCTCCTA-1	fibroblast	Ref20k
+hbca_c117_hbca_c117_TCTTGCGGTATCCTTT-1	capillary endothelial cell	Ref20k
+r2_hbca_c55_CTCAGAAAGTTGAATG-1	fibroblast	Ref20k
+r1_hbca_c52_GACCCTTCAAAGGAGA	capillary endothelial cell	Ref20k
+hbca_c120_hbca_c120_TAGACTGGTTGTTGTG-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_CCACGAGCATGGAAGC-1	endothelial cell of artery	Ref20k
+r2_hbca_c49_GAGATGGCAGCGTGAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c126_hbca_c126_TTCCTCTAGGTAAGTT-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_GATTCTTTCGTAGCCG-1	fibroblast	Ref20k
+r1_hbca_c29_CATCGAAGTCTCTTAT	vein endothelial cell	Ref20k
+hbca_c142_hbca_c142_GTCATCCAGCATCAAA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c83_CAAGAGGCATAGGTAA-1	fibroblast	Ref20k
+r2_hbca_c88_CGTAGTAGTATCGTAC-1	fibroblast	Ref20k
+r2_hbca_c62_AGTAGTCCACATTCGA-1	fibroblast	Ref20k
+hbca_c167_hbca_c167_ACCAAACGTCACTAGT-1	inflammatory macrophage	Ref20k
+r1_hbca_c41_CATTGCCGTTTGGGAG	capillary endothelial cell	Ref20k
+r1_hbca_c50_GAGTCTACAATAGAGT	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c25_GATGAAAAGTGAATTG	endothelial cell of artery	Ref20k
+hbca_c119_hbca_c119_TAAGCCAGTACGCTTA-1	mature NK T cell	Ref20k
+hbca_c148_hbca_c148_CAGTTAGCATATCTGG-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_AGTGTTGTCGCCCAGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c152_hbca_c152_TTGAACGAGGCCGCTT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_TACGGGCAGATTTGCC	capillary endothelial cell	Ref20k
+r2_hbca_c48_TCGTGCTCAGTCAGCC-1	basal cell	Ref20k
+hbca_c120_hbca_c120_CTTACCGTCACTCCGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c70_CGCATAAAGAGGGTGG-1	fibroblast	Ref20k
+r2_hbca_c82_TTGTTTGTCAGTGTGT-1	capillary endothelial cell	Ref20k
+hbca_c152_hbca_c152_CGAGGCTAGGACTGGT-1	fibroblast	Ref20k
+r1_hbca_c12_AGTGTCAAGTTGTAGA	endothelial cell of artery	Ref20k
+r1_hbca_c37_GGGACAAAGACCAGAC	fibroblast	Ref20k
+hbca_c144_hbca_c144_GTGGGAAAGTCCTACA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c21_ACACTGACAGTTCATG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c136_hbca_c136_TAACACGCAGCACCCA-1	vein endothelial cell	Ref20k
+hbca_c117_hbca_c117_GATCCCTCAGTCGGAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c129_hbca_c129_GCAACCGCAGGCATGA-1	fibroblast	Ref20k
+hbca_c119_hbca_c119_TACATTCCAGGATGAC-1	fibroblast	Ref20k
+r2_hbca_c54_TCCCATGAGACCAAGC-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c80_CTCAAGACACGCCACA-1	fibroblast	Ref20k
+r2_hbca_c58_GACCCTTGTTTCTTAC-1	conventional dendritic cell	Ref20k
+r2_hbca_c80_CTCCTCCCACGACCTG-1	vein endothelial cell	Ref20k
+hbca_c109_hbca_c109_AGTCACATCTGTCGCT-1	fibroblast	Ref20k
+r2_hbca_c62_ACAGGGAAGGGCAAGG-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c66_AAGTACCGTACGTACT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c17_AACACGTTCTGAGGGA	natural killer cell	Ref20k
+hbca_c127_hbca_c127_AAACCCAAGTGCAGGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c164_hbca_c164_CGAAGTTCATGGCTAT-1	basal cell	Ref20k
+r1_hbca_c17_TTTACTGCAGCTATTG	pericyte	Ref20k
+hbca_c101_hbca_c101_TAAGCACCACCAGTAT-1	fibroblast	Ref20k
+r2_hbca_c74_AGCATCAAGTTTCAGC-1	vein endothelial cell	Ref20k
+r2_hbca_c78_CAATACGCAAAGGATT-1	basal cell	Ref20k
+r1_hbca_c24_CCCAGTTGTCATACTG	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c41_GTTACGACACAAATCC	pericyte	Ref20k
+hbca_c130_hbca_c130_CTTTCGGCAATTGAGA-1	fibroblast	Ref20k
+hbca_c157_hbca_c157_CCACAAATCCACTTCG-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c70_CCCGGAAAGGACACTG-1	fibroblast	Ref20k
+r1_hbca_c38_AGAAGTAAGAATGTTG	endothelial cell of lymphatic vessel	Ref20k
+hbca_c125_hbca_c125_ATTCCTATCATTTACC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c26_TAGAGCTTCTTAGCCC	basal cell	Ref20k
+r1_hbca_c48_CCTCCAAAGGACAGCT	fibroblast	Ref20k
+r1_hbca_c41_TTTGGAGGTTATGACC	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c142_hbca_c142_TAAGTCGGTATCAGGG-1	fibroblast	Ref20k
+hbca_c133_hbca_c133_TCATTCACACGACGAA-1	fibroblast	Ref20k
+hbca_c136_hbca_c136_ACTCTCGCACTGGCGT-1	basal cell	Ref20k
+r1_hbca_c14_TGGTTCCGTTGAACTC	alternatively activated macrophage	Ref20k
+hbca_c105_hbca_c105_GACATCAAGAGGCCAT-1	basal cell	Ref20k
+r2_hbca_c67_ACAAGCTTCTTTACAC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c122_hbca_c122_ACACTGATCGGAGTGA-1	basal cell	Ref20k
+hbca_c107_hbca_c107_ATCGGATCATCCTAAG-1	fibroblast	Ref20k
+r2_hbca_c60_TTCTCTCTCCCTTTGG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c52_AGGATCTCATGACACT	fibroblast	Ref20k
+hbca_c142_hbca_c142_CGATCGGGTTGAGGAC-1	fibroblast	Ref20k
+hbca_c132_hbca_c132_GGTCTGGAGTCACTCA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c143_hbca_c143_TGGTAGTTCAGACCGC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c24_CTGGTCTCATGCTAGT	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_TCGACCTCAGCTCATA	fibroblast	Ref20k
+hbca_c149_hbca_c149_CTAGGTAGTTGCATAC-1	basal cell	Ref20k
+r2_hbca_c55_CTGTAGAGTATTGACC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c33_TACCTCGTCGTAGCCG	fibroblast	Ref20k
+r2_hbca_c81_TTGCATTTCGACACCG-1	fibroblast	Ref20k
+r2_hbca_c99_GGGACTCTCCGATAGT-1	fibroblast	Ref20k
+r2_hbca_c97_TCTACATCATGTTCAG-1	fibroblast	Ref20k
+hbca_c110_hbca_c110_TATCTTGAGGAAGAAC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_CTCTGGTAGAAGGTAG	fibroblast	Ref20k
+hbca_c110_hbca_c110_CTCGAGGAGCGTCAGA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c139_hbca_c139_GAAGTAAGTTAGGGTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c149_hbca_c149_GTACAACCAGAAGCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c100_CATGCGGTCTCACCCA-1	conventional dendritic cell	Ref20k
+r1_hbca_c50_GTCACTCGTTTATGCG	fibroblast	Ref20k
+r2_hbca_c63_CTTAGGACAGTTTCAG-1	basal cell	Ref20k
+hbca_c165_hbca_c165_ATGTCTTAGCGACAGT-1	class switched memory B cell	Ref20k
+r1_hbca_c47_TTTGATCAGGGACCAT	fibroblast	Ref20k
+hbca_c156_hbca_c156_TGCTCCAGTGCATTTG-1	inflammatory macrophage	Ref20k
+hbca_c138_hbca_c138_CGGGTGTGTGAGGCAT-1	fibroblast	Ref20k
+hbca_c133_hbca_c133_CACTGAAAGACGGTCA-1	fibroblast	Ref20k
+hbca_c129_hbca_c129_CTGAATGAGCATTGTC-1	fibroblast	Ref20k
+r1_hbca_c33_GTCTACCCATCACCAA	alternatively activated macrophage	Ref20k
+hbca_c119_hbca_c119_TGTTCATCAGCGTGCT-1	IgG plasma cell	Ref20k
+hbca_c142_hbca_c142_GCAGCCAGTAGGCAAC-1	IgA plasma cell	Ref20k
+r2_hbca_c76_ATTCCCGAGCATCAGG-1	fibroblast	Ref20k
+hbca_c106_hbca_c106_TTCTAACGTAGGATAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c124_hbca_c124_CTCCACACATGAAGCG-1	capillary endothelial cell	Ref20k
+r1_hbca_c39_TCAGTCCCACCTGCGA	alternatively activated macrophage	Ref20k
+hbca_c164_hbca_c164_CTCTCGACAACTGTGT-1	basal cell	Ref20k
+hbca_c130_hbca_c130_CATGAGTTCCAGCACG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c27_GTGCATAGTGTGACGA	mammary gland epithelial cell	Ref20k
+r1_hbca_c29_GTGCTTCCACTTAACG	basal cell	Ref20k
+r2_hbca_c70_GAGGCCTTCATCAGTG-1	fibroblast	Ref20k
+r1_hbca_c32_GGGAGTAGTGATCGTT	fibroblast	Ref20k
+hbca_c136_hbca_c136_TCAGTCCGTACATTGC-1	fibroblast	Ref20k
+r2_hbca_c77_GTGAGCCTCTTGCAGA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c25_ACAGCCGGTCGAGATG	mammary gland epithelial cell	Ref20k
+r2_hbca_c74_GGTTCTCAGGACAGTC-1	fibroblast	Ref20k
+hbca_c104_hbca_c104_TGCTTGCCAAAGAGTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c100_ACGGTTAGTGTTGAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c121_hbca_c121_TCACTCGAGTTGAAAC-1	basal cell	Ref20k
+r2_hbca_c70_TCAGTTTAGTTAGTAG-1	fibroblast	Ref20k
+hbca_c159_hbca_c159_CCATAAGCATGAATCC-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_ACCCTCATCATGGCCG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c130_hbca_c130_CATAAGCAGAGCAACC-1	CD4-positive helper T cell	Ref20k
+hbca_c110_hbca_c110_CACACAAAGGCTCAAG-1	fibroblast	Ref20k
+r2_hbca_c57_TCAAGTGTCCCTCAAC-1	vein endothelial cell	Ref20k
+r1_hbca_c37_CCCGGAACACACGGTC	fibroblast	Ref20k
+r2_hbca_c92_AAAGGTAGTTCAAACC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c51_GTGAGGAAGCCTCTTC	fibroblast	Ref20k
+hbca_c148_hbca_c148_TCGCAGGCAGTCCCGA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c94_CACGTTCAGACTGGGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c96_CCGTGAGAGTATGCAA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_CCATGTCAGGTTCCTA	basal cell	Ref20k
+r2_hbca_c94_TTCTAGTTCAAGTTGC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_AGAACAATCATACGGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c148_hbca_c148_TTCGGTCGTCCCTGTT-1	basal cell	Ref20k
+r1_hbca_c23_CTTCTCTGTGAAAGAG	mammary gland epithelial cell	Ref20k
+r2_hbca_c72_GGCAGTCGTCTGTGAT-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c41_AGTTAGCAGGTGCAGT	endothelial cell of artery	Ref20k
+hbca_c156_hbca_c156_AGATAGACATGGAATA-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c51_CTCACTGTCTAGACCA	fibroblast	Ref20k
+hbca_c163_hbca_c163_TCGTCCATCTCCCTAG-1	basal cell	Ref20k
+r2_hbca_c53_CAGATTGTCCCATTCG-1	activated CD8-positive, alpha-beta T cell	Ref20k
+r2_hbca_c48_TATTGCTGTACACGTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c29_CTCGGGAGTGCGAAAC	mammary gland epithelial cell	Ref20k
+r1_hbca_c21_CCCTCCTCACAGTCGC	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c61_ATTCTACCAAATCGTC-1	alternatively activated macrophage	Ref20k
+hbca_c118_hbca_c118_TAATTCCTCAACGCTA-1	activated CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c48_CGGAGAAGTTATTCCT	vascular associated smooth muscle cell	Ref20k
+hbca_c156_hbca_c156_CGATGCGGTAACGGTG-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_ATTCCATAGCGTGTCC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c133_hbca_c133_CATACTTTCCGAGATT-1	basal cell	Ref20k
+hbca_c117_hbca_c117_TCAGTTTAGATCCCAT-1	fibroblast	Ref20k
+r2_hbca_c98_TAACGACCACCAAAGG-1	regulatory T cell	Ref20k
+hbca_c159_hbca_c159_GTTTACTTCTGCGGAC-1	basal cell	Ref20k
+r2_hbca_c70_GAAACCTGTTGTGTAC-1	capillary endothelial cell	Ref20k
+r2_hbca_c92_ACCTGAAAGGTGTGAC-1	fibroblast	Ref20k
+r1_hbca_c26_CCCAATCGTGCACTTA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c155_hbca_c155_CATGAGTAGGCTTAAA-1	vein endothelial cell	Ref20k
+hbca_c121_hbca_c121_AGGGTGATCATTCACT-1	fibroblast	Ref20k
+r1_hbca_c30_GATCGCGGTGTCTGAT	basal cell	Ref20k
+hbca_c131_hbca_c131_CACTTCGTCCCGATCT-1	basal cell	Ref20k
+r2_hbca_c88_CCCGAAGCAACGGCCT-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_TGCTTGCCATAGGTTC-1	capillary endothelial cell	Ref20k
+r2_hbca_c90_AAGGTAAAGCATATGA-1	conventional dendritic cell	Ref20k
+hbca_c151_hbca_c151_ATGTCCCTCGCTAATG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c57_TGACCCTAGCAAGTGC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c155_hbca_c155_AGTAGCTCAACTCATG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c93_TTAATCCCATCCTCAC-1	mammary gland epithelial cell	Ref20k
+hbca_c140_hbca_c140_TTAGGCATCGGTCGGT-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_AGATCCATCCTCTCGA-1	fibroblast	Ref20k
+hbca_c157_hbca_c157_GTTACAGCAACGCCCA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c18_CGTCAGGGTCTAGGTT	fibroblast	Ref20k
+r2_hbca_c60_CTAGACAGTACGCTAT-1	fibroblast	Ref20k
+r2_hbca_c49_GTCAAACAGTTGTAAG-1	basal cell	Ref20k
+r2_hbca_c49_CAGTGCGGTAGATGTA-1	endothelial cell of artery	Ref20k
+hbca_c129_hbca_c129_TCCAGAACAGCTGTTA-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c112_hbca_c112_TCATGAGTCAAACTGC-1	fibroblast	Ref20k
+r2_hbca_c95_ACTGATGTCGAGGCAA-1	mammary gland epithelial cell	Ref20k
+hbca_c142_hbca_c142_TTCCACGTCCTTCTAA-1	mammary gland epithelial cell	Ref20k
+hbca_c150_hbca_c150_AAGTCGTAGCGTTAGG-1	vein endothelial cell	Ref20k
+r2_hbca_c71_GTTGTAGGTATACGGG-1	basal cell	Ref20k
+r2_hbca_c88_TGTTCTAGTCATAAAG-1	fibroblast	Ref20k
+r2_hbca_c79_GGTTAACCACAATGAA-1	fibroblast	Ref20k
+r2_hbca_c70_TCGACCTAGACATACA-1	natural killer cell	Ref20k
+hbca_c166_hbca_c166_TCAGTCCGTTCATCTT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c89_GGGCCATCACAAGCCC-1	lymphocyte	Ref20k
+r2_hbca_c97_TAGACTGGTTATCCAG-1	fibroblast	Ref20k
+hbca_c121_hbca_c121_GGGTGTCAGACATAGT-1	myeloid cell	Ref20k
+r2_hbca_c77_AGACCCGAGCGCACAA-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_CATCCACCACATTCTT-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_CTAGACATCCCAAGCG-1	mammary gland epithelial cell	Ref20k
+hbca_c141_hbca_c141_CCACCATAGGGCAACT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c59_AGCTTCCCACGCGCAT-1	basal cell	Ref20k
+hbca_c117_hbca_c117_GCTACAATCTGGCCAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c129_hbca_c129_GTGGAGAAGGCACAAC-1	mast cell	Ref20k
+hbca_c140_hbca_c140_GACCCAGTCACAAGAA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c107_hbca_c107_TTTGTTGAGGTCCGAA-1	IgA plasma cell	Ref20k
+hbca_c141_hbca_c141_TGTCCCAGTCAGACGA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c71_TCATTTGGTGGTATGG-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c85_GAGGGATTCCGATGTA-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_CAAGACTAGGAATTAC-1	endothelial cell of artery	Ref20k
+r1_hbca_c25_TGGCTGGAGAACTCGG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_GATCAGTTCAACCCGG-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_TGCTCCAGTCGCCACA-1	basal cell	Ref20k
+r2_hbca_c74_CTGAATGGTCGTCAGC-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_CATAGACGTCAGGTGA-1	basal cell	Ref20k
+r1_hbca_c43_GGGCTCAAGCATGCAG	fibroblast	Ref20k
+r1_hbca_c26_TCTCTAATCGTACGGC	capillary endothelial cell	Ref20k
+hbca_c128_hbca_c128_TCGGATACATCGGAGA-1	fibroblast	Ref20k
+r1_hbca_c44_AGGATCTTCACTGGGC	fibroblast	Ref20k
+r1_hbca_c46_AAGCCATCACTTGAGT	fibroblast	Ref20k
+r1_hbca_c27_TCCACACTCCCGGATG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_TAACCAGAGAGCAGTC-1	fibroblast	Ref20k
+r2_hbca_c83_CTGCAGGAGGCCCGTT-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c51_TTACGTTTCTGGCCTT	fibroblast	Ref20k
+r2_hbca_c74_GCCAGGTGTCAAATCC-1	IgA plasma cell	Ref20k
+hbca_c147_hbca_c147_ATGACCACACGGTAGA-1	fibroblast	Ref20k
+hbca_c101_hbca_c101_TCGTGGGAGCGTGAGT-1	fibroblast	Ref20k
+hbca_c142_hbca_c142_CTCCGATCAAGTCATC-1	basal cell	Ref20k
+hbca_c136_hbca_c136_AGAAGTATCGCTAAAC-1	endothelial cell of artery	Ref20k
+r1_hbca_c52_ACCATTTCATGACAGG	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c48_ACTATCTCATTCTCCG	pericyte	Ref20k
+r2_hbca_c46_ACGATCACATGCCGGT-1	fibroblast	Ref20k
+r1_hbca_c27_TTCGGTCAGGTGATAT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c155_hbca_c155_AAACCCAAGCTGTCCG-1	fibroblast	Ref20k
+r2_hbca_c72_ATTCATCCATCGTGCG-1	fibroblast	Ref20k
+r2_hbca_c58_TGACCCTTCAATGCAC-1	CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c37_TCAGCCTCAATGTCTG	fibroblast	Ref20k
+hbca_c142_hbca_c142_ATGAGGGTCATTGCGA-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_TCCTCGATCGTGGCTG-1	fibroblast	Ref20k
+r1_hbca_c22_CGGCTAGTCACGGTTA	endothelial cell of artery	Ref20k
+r2_hbca_c86_AACGTCACAATCAGCT-1	basal cell	Ref20k
+r2_hbca_c49_CAATCGATCAACTCTT-1	vascular associated smooth muscle cell	Ref20k
+hbca_c127_hbca_c127_CGGAATTTCTACGGTA-1	pericyte	Ref20k
+r1_hbca_c23_AGCTTGAGTCCAACTA	vein endothelial cell	Ref20k
+r1_hbca_c48_TGGAGAGGTCCAAAGG	fibroblast	Ref20k
+r2_hbca_c48_GGACGTCTCGCATGAT-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c51_AATCACGCAATCTGCA	fibroblast	Ref20k
+hbca_c113_hbca_c113_GTTTACTTCGAACCAT-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_GGGTCACAGAGATTCA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c37_TTCCACGAGCATCGAG	fibroblast	Ref20k
+hbca_c108_hbca_c108_GACTCTCAGCCTATTG-1	capillary endothelial cell	Ref20k
+r1_hbca_c30_GTACGTAAGCCCAGCT	basal cell	Ref20k
+hbca_c144_hbca_c144_CATGGATCACATTGTG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c144_hbca_c144_CTCATCGAGCAAATCA-1	vein endothelial cell	Ref20k
+r1_hbca_c21_CTGAAGTCAAGTCTAC	basal cell	Ref20k
+r1_hbca_c39_TCCTTCTCACACCGAC	fibroblast	Ref20k
+r1_hbca_c23_GGCTGGTGTACCCAAT	CD4-positive helper T cell	Ref20k
+hbca_c166_hbca_c166_TGTAGACTCGGTCTAA-1	fibroblast	Ref20k
+hbca_c140_hbca_c140_TGGCGTGCATGACCCG-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_CGTAGTAAGGTAGTCG-1	basal cell	Ref20k
+hbca_c165_hbca_c165_CGCAGGTGTAACAAGT-1	CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c39_CGAGGCTTCGCCTCTA	fibroblast	Ref20k
+hbca_c129_hbca_c129_TACACCCGTCTAGATC-1	basal cell	Ref20k
+hbca_c122_hbca_c122_CATGAGTCACTCCTGT-1	basal cell	Ref20k
+hbca_c153_hbca_c153_GAGAGGTGTGCAGATG-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r1_hbca_c30_GAATGAAAGGGAAACA	basal cell	Ref20k
+hbca_c104_hbca_c104_CGTGTCTTCCACATAG-1	fibroblast	Ref20k
+r2_hbca_c56_AACTTCTCAGAGGAAA-1	endothelial cell of artery	Ref20k
+hbca_c160_hbca_c160_TTACCATAGTTCGGTT-1	basal cell	Ref20k
+r1_hbca_c22_ACCAGTAAGACTGTAA	vein endothelial cell	Ref20k
+r2_hbca_c60_GTTAGTGTCCGAGTGC-1	fibroblast	Ref20k
+r1_hbca_c33_GTCCTCATCTATGTGG	fibroblast	Ref20k
+r2_hbca_c55_GCACTAAGTTATCTTC-1	activated CD8-positive, alpha-beta T cell	Ref20k
+hbca_c146_hbca_c146_CGAAGTTTCAGTGCGC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c128_hbca_c128_TGACTCCTCCGTGACG-1	CD4-positive helper T cell	Ref20k
+hbca_c144_hbca_c144_GTTCATTTCTACGGTA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c148_hbca_c148_ACGGTCGGTAATGATG-1	capillary endothelial cell	Ref20k
+r1_hbca_c24_ATTGGTGCATGACATC	basal cell	Ref20k
+hbca_c164_hbca_c164_TGCTGAATCCTACGAA-1	basal cell	Ref20k
+r1_hbca_c47_GGTAATCTCGGCATCG	fibroblast	Ref20k
+r1_hbca_c33_CAACCAAGTGCGCTCA	fibroblast	Ref20k
+hbca_c140_hbca_c140_ATGTCCCGTGCGGATA-1	fibroblast	Ref20k
+hbca_c152_hbca_c152_AGAAGCGGTACCTATG-1	vascular associated smooth muscle cell	Ref20k
+hbca_c110_hbca_c110_GGCAGTCAGCCGCTTG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c26_CTTAGGAGTGTCCTCT	basal cell	Ref20k
+r1_hbca_c30_ATTCTACGTGTCTGAT	basal cell	Ref20k
+hbca_c106_hbca_c106_CATTGCCTCCATATGG-1	basal cell	Ref20k
+hbca_c158_hbca_c158_TGGTACAGTACCGCGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c99_GACAGCCAGAAGGGAT-1	pericyte	Ref20k
+hbca_c132_hbca_c132_TTGGTTTGTGGGCTTC-1	pericyte	Ref20k
+hbca_c140_hbca_c140_CGCAGGTGTGATTCTG-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_CTGTATTGTAATGCGG-1	fibroblast	Ref20k
+r1_hbca_c24_GTGTTAGCATCCCACT	basal cell	Ref20k
+r2_hbca_c76_GCTGGGTGTGTGTTTG-1	fibroblast	Ref20k
+r1_hbca_c09_AGTGTCAAGGCACATG	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c03_CCTACCATCTTGCAAG	regulatory T cell	Ref20k
+hbca_c152_hbca_c152_GTGGTTAGTACAGTAA-1	capillary endothelial cell	Ref20k
+r1_hbca_c31_ATGCGATAGTCGTTTG	pericyte	Ref20k
+r2_hbca_c62_ATCTCTAGTCTTGGTA-1	basal cell	Ref20k
+hbca_c101_hbca_c101_CACAGATAGCTTGTGT-1	fibroblast	Ref20k
+hbca_c119_hbca_c119_CTCACTGGTCTACGAT-1	basal cell	Ref20k
+r2_hbca_c98_CACACAAAGTCTTCGA-1	fibroblast	Ref20k
+r1_hbca_c22_CGGAGTCGTTGCGTTA	vein endothelial cell	Ref20k
+hbca_c147_hbca_c147_GTGGTTACACTACCCT-1	fibroblast	Ref20k
+r1_hbca_c30_GCTGCTTAGGCTACGA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c163_hbca_c163_TCTCAGCAGTAAGAGG-1	vein endothelial cell	Ref20k
+hbca_c105_hbca_c105_TTCTAGTTCAGGAAGC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c23_ATTGGTGCAGGGTTAG	mammary gland epithelial cell	Ref20k
+hbca_c102_hbca_c102_CAGCCAGTCAGACTGT-1	basal cell	Ref20k
+r2_hbca_c90_CATAGACTCATCGCCT-1	fibroblast	Ref20k
+r2_hbca_c87_GTTATGGGTAACGGTG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c146_hbca_c146_TTTCCTCAGGTGCAGT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c27_CAACTAGGTGAAAGAG	mammary gland epithelial cell	Ref20k
+hbca_c119_hbca_c119_GCCCGAAGTTGGACTT-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_ATCTCTACACCGGTCA-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c46_AAGGAATGTTTCACTT	capillary endothelial cell	Ref20k
+hbca_c145_hbca_c145_CTCCATGGTGAGCGAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c30_CTGCCTAGTCCGTCAG	basal cell	Ref20k
+r2_hbca_c46_GATCACAGTAGCCAGA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c49_AGGATCTCATACATCG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c72_TCATTCAGTGCCTTTC-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c26_ACCTTTACATCCCATC	basal cell	Ref20k
+hbca_c140_hbca_c140_ACTTTGTCATTGACAC-1	fibroblast	Ref20k
+r2_hbca_c78_CAACCAAAGCGATGCA-1	vein endothelial cell	Ref20k
+hbca_c155_hbca_c155_CCGGACATCGAAGCCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c151_hbca_c151_TCAGTGAAGCATGCAG-1	CD4-positive helper T cell	Ref20k
+hbca_c147_hbca_c147_TTGCATTCACTGTGTA-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_CTACATTTCGTAGCTA-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c87_GAGTTTGTCTCGACCT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c107_hbca_c107_AACCTGATCTTTGCGC-1	fibroblast	Ref20k
+r2_hbca_c81_CCAATGAAGCGCCTAC-1	fibroblast	Ref20k
+r2_hbca_c70_GCCATTCTCGCTTTAT-1	fibroblast	Ref20k
+r2_hbca_c71_CTGCTCAAGGATCACG-1	vein endothelial cell	Ref20k
+hbca_c154_hbca_c154_AGTACTGAGGACTTCT-1	basal cell	Ref20k
+r2_hbca_c96_GCGATCGTCTGGACTA-1	basal cell	Ref20k
+r1_hbca_c28_TCAGCAACATGCCACG	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c28_GTAACGTCACCCTATC	fibroblast	Ref20k
+r1_hbca_c23_ACGAGGACAAGCCTAT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c153_hbca_c153_CCCGGAAGTTCCGCAG-1	fibroblast	Ref20k
+hbca_c128_hbca_c128_GCAACATGTGTTCCAA-1	fibroblast	Ref20k
+hbca_c117_hbca_c117_CAATGACAGTCAACAA-1	fibroblast	Ref20k
+hbca_c162_hbca_c162_GATGTTGAGCGCCTCA-1	conventional dendritic cell	Ref20k
+hbca_c132_hbca_c132_CTCTCGAAGGACAGCT-1	basal cell	Ref20k
+hbca_c117_hbca_c117_CTGGCAGTCAACTCTT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c33_CTTCCGATCACTCCGT	fibroblast	Ref20k
+r2_hbca_c54_CACTGAAAGATACGAT-1	natural killer cell	Ref20k
+hbca_c104_hbca_c104_AAACCCATCCGTAGGC-1	fibroblast	Ref20k
+hbca_c112_hbca_c112_AGGGTGAAGAGTTGCG-1	fibroblast	Ref20k
+r2_hbca_c75_GTCCCATAGACGCCAA-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c80_GTCAAACTCCACACCT-1	fibroblast	Ref20k
+r1_hbca_c37_ATTTCTGTCCATGCAA	fibroblast	Ref20k
+hbca_c105_hbca_c105_TGAGCGCTCAGGTAAA-1	fibroblast	Ref20k
+r1_hbca_c16_GACTGCGCACTGTCGG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c123_hbca_c123_ATTTCACCATGACTGT-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c122_hbca_c122_CACTTCGGTCACATTG-1	fibroblast	Ref20k
+hbca_c143_hbca_c143_CGCCATTTCCCTATTA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c165_hbca_c165_CATCCACGTCTTCTAT-1	fibroblast	Ref20k
+r1_hbca_c28_GGCGTGTAGAACTCGG	fibroblast	Ref20k
+r2_hbca_c78_TCGCTCAAGGGCATGT-1	pericyte	Ref20k
+hbca_c149_hbca_c149_ATCCATTGTCCCTCAT-1	basal cell	Ref20k
+r2_hbca_c59_GTCATTTTCCACTGAA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c25_GTAGGCCCACGGCCAT	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c76_TTACCGCCAGAGGCAT-1	fibroblast	Ref20k
+r1_hbca_c43_CTAACCCAGCGGTAAC	macrophage	Ref20k
+r1_hbca_c39_GTTAGACTCCATCAGA	fibroblast	Ref20k
+r2_hbca_c70_CAACGGCTCTTGTTAC-1	vein endothelial cell	Ref20k
+hbca_c102_hbca_c102_GAGAAATTCACCATCC-1	capillary endothelial cell	Ref20k
+hbca_c109_hbca_c109_CCCGAAGAGATAGGGA-1	classical monocyte	Ref20k
+r1_hbca_c52_AACAAAGAGTAGTGCG	fibroblast	Ref20k
+r1_hbca_c22_GGAGCAAGTGGTACAG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c121_hbca_c121_GTGGCGTAGTTCCGGC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c71_GTCGAATGTATAGGAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c130_hbca_c130_GTGCTGGTCTCGCAGG-1	fibroblast	Ref20k
+r1_hbca_c33_CGACAGCTCATTGTGG	fibroblast	Ref20k
+r2_hbca_c94_AGCCAGCCAAGTGTCT-1	fibroblast	Ref20k
+hbca_c152_hbca_c152_TTTCGATTCACTCCGT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c21_TGACAACCACACAGAG	vascular associated smooth muscle cell	Ref20k
+hbca_c110_hbca_c110_ACTCCCAAGCAAATGT-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_GGGCGTTAGCTTTCTT-1	fibroblast	Ref20k
+hbca_c113_hbca_c113_ATTATCCAGGTAGATT-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c116_hbca_c116_ACTCTCGGTTTACTTC-1	fibroblast	Ref20k
+r2_hbca_c46_TGGGAAGCACAAATCC-1	pericyte	Ref20k
+hbca_c152_hbca_c152_GTGGAGACAACGCCCA-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c51_CTGAATGCAAGTTCCA	pericyte	Ref20k
+hbca_c152_hbca_c152_CGATGCGCATGACTAC-1	basal cell	Ref20k
+hbca_c109_hbca_c109_ACGTAGTGTGAATAAC-1	fibroblast	Ref20k
+r1_hbca_c21_GGACATTCAAGTAGTA	fibroblast	Ref20k
+r2_hbca_c77_GACTATGAGAGCTGAC-1	mammary gland epithelial cell	Ref20k
+hbca_c148_hbca_c148_GTTGAACGTGCTCTCT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c10_CAGCCGAAGACCGGAT	fibroblast	Ref20k
+r2_hbca_c72_CATTGTTTCATTGCCC-1	fibroblast	Ref20k
+r2_hbca_c48_ATGTCTTTCGTCGATA-1	CD4-positive helper T cell	Ref20k
+hbca_c126_hbca_c126_TGGTGATCAATTGCGT-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c07_TATTACCAGCACCGCT	basal cell	Ref20k
+r2_hbca_c74_TGTAACGCATTGACAC-1	fibroblast	Ref20k
+r2_hbca_c60_GTCTACCAGTTGAAAC-1	basal cell	Ref20k
+r2_hbca_c92_TCATTTGGTCGCACAC-1	CD4-positive helper T cell	Ref20k
+hbca_c104_hbca_c104_AGGGCCTGTCTACGAT-1	fibroblast	Ref20k
+r2_hbca_c100_GTCTCACCAAGCGCTC-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c44_CTACCCAGTCGTAATC	capillary endothelial cell	Ref20k
+hbca_c155_hbca_c155_GAGGCCTGTTGCTCCT-1	vein endothelial cell	Ref20k
+hbca_c121_hbca_c121_GTGGTTAAGATGATTG-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_GACCAATAGTGCACTT-1	mammary gland epithelial cell	Ref20k
+hbca_c145_hbca_c145_GTAAGTCTCATCAGTG-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_TCAAGTGAGGCAGGTT-1	CD4-positive helper T cell	Ref20k
+hbca_c110_hbca_c110_ATTGGGTGTGGGATTG-1	conventional dendritic cell	Ref20k
+r2_hbca_c58_GTGTAACCACACCTGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c160_hbca_c160_ACCCTCATCTGCGGAC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c78_TGTTCTAGTGATGTAA-1	basal cell	Ref20k
+r2_hbca_c98_GTTGCGGCACTCCTTG-1	basal cell	Ref20k
+r1_hbca_c12_CCTTCCCTCATCTGTT	fibroblast	Ref20k
+r1_hbca_c40_TGTCCTGAGAGGATGA	fibroblast	Ref20k
+r1_hbca_c22_GTGCGGTCACAGAGGT	vein endothelial cell	Ref20k
+hbca_c139_hbca_c139_TATATCCTCATCACAG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c146_hbca_c146_GGATGTTAGAAGGATG-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c48_TTGTTTGAGAGATCGC	pericyte	Ref20k
+hbca_c167_hbca_c167_CAACAGTAGGGTAGCT-1	vein endothelial cell	Ref20k
+r1_hbca_c18_GATGAGGAGTGAACAT	mammary gland epithelial cell	Ref20k
+hbca_c103_hbca_c103_CGTAGTAGTTCGAGCC-1	pericyte	Ref20k
+hbca_c109_hbca_c109_ATGAGGGGTGGACCTC-1	alternatively activated macrophage	Ref20k
+r2_hbca_c84_ATTCCCGTCATTTCGT-1	fibroblast	Ref20k
+r1_hbca_c21_GGAATAATCAACGAAA	vein endothelial cell	Ref20k
+hbca_c132_hbca_c132_TCTCAGCGTACGACTT-1	pericyte	Ref20k
+hbca_c104_hbca_c104_CGAAGGAAGCTATCTG-1	pericyte	Ref20k
+hbca_c163_hbca_c163_TCATGTTGTTGGGTAG-1	fibroblast	Ref20k
+r1_hbca_c21_GGATGTTGTAGAGGAA	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c78_CGAGTGCCAGAGGCAT-1	basal cell	Ref20k
+r2_hbca_c86_GGGCTCAAGTAAACGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c75_GGTCTGGAGCATCAAA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c129_hbca_c129_TAGTGCAGTAACGATA-1	fibroblast	Ref20k
+hbca_c151_hbca_c151_TTCGCTGGTCCAGCCA-1	basal cell	Ref20k
+hbca_c111_hbca_c111_GTTATGGAGAGTGAAG-1	endothelial cell of artery	Ref20k
+hbca_c140_hbca_c140_TCATGCCCATACATCG-1	basal cell	Ref20k
+r2_hbca_c55_GACATCAGTCAGACGA-1	fibroblast	Ref20k
+r2_hbca_c53_ATTGGGTCATCCTGTC-1	activated CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c41_GTGAGTTAGTGAGGCT	fibroblast	Ref20k
+hbca_c125_hbca_c125_CAATACGCATGGTGGA-1	vein endothelial cell	Ref20k
+r1_hbca_c28_AGTGGGATCTAGCACA	fibroblast	Ref20k
+hbca_c154_hbca_c154_CTAGGTATCAGTCAGT-1	basal cell	Ref20k
+r2_hbca_c72_CCTTTGGGTAGGAGTC-1	fibroblast	Ref20k
+hbca_c113_hbca_c113_TCTCCGAAGCGAATGC-1	mammary gland epithelial cell	Ref20k
+hbca_c117_hbca_c117_AACCTTTCACTCGATA-1	basal cell	Ref20k
+r1_hbca_c28_CCGGTAGCAGATGAGC	fibroblast	Ref20k
+hbca_c146_hbca_c146_TTTCCTCGTACGTGTT-1	inflammatory macrophage	Ref20k
+hbca_c137_hbca_c137_GAAGTAAGTCCAGAAG-1	CD4-positive helper T cell	Ref20k
+hbca_c122_hbca_c122_ACAACCAGTTCTTGTT-1	fibroblast	Ref20k
+r2_hbca_c65_AGGTTGTAGACATCCT-1	basal cell	Ref20k
+hbca_c155_hbca_c155_CCTATCGAGTACAGCG-1	vein endothelial cell	Ref20k
+r2_hbca_c94_CTGCGAGGTCAGTCGC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c31_CGGAGCTCAAAGGAAG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c127_hbca_c127_TGATCAGGTCGAACGA-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c101_hbca_c101_TACGGTAAGGTCACCC-1	basal cell	Ref20k
+hbca_c109_hbca_c109_ATATCCTAGAGAAGGT-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c113_hbca_c113_CTGCTCAGTGCCCGTA-1	basal cell	Ref20k
+r1_hbca_c07_CAGTCCTCAACTTGAC	mammary gland epithelial cell	Ref20k
+hbca_c162_hbca_c162_CGTGAATGTGAATAAC-1	basal cell	Ref20k
+hbca_c144_hbca_c144_CATAAGCAGGCCCACT-1	natural killer cell	Ref20k
+hbca_c151_hbca_c151_CAACAGTTCCGCGAGT-1	fibroblast	Ref20k
+r1_hbca_c46_GCATCTCGTCCGATCG	fibroblast	Ref20k
+hbca_c132_hbca_c132_ACCATTTGTTGGGTTT-1	pericyte	Ref20k
+r2_hbca_c79_ATTCCCGGTATGAGGC-1	pericyte	Ref20k
+r2_hbca_c90_CGACAGCTCCATTTAC-1	vein endothelial cell	Ref20k
+r1_hbca_c30_CGGCTAGCACATTCGA	vein endothelial cell	Ref20k
+r2_hbca_c55_AAGACAAGTATGTCAC-1	fibroblast	Ref20k
+hbca_c159_hbca_c159_AACGAAACACAAGCCC-1	basal cell	Ref20k
+r1_hbca_c30_CATCCACGTCAAGCGA	basal cell	Ref20k
+hbca_c132_hbca_c132_TTACGTTTCCGATTAG-1	inflammatory macrophage	Ref20k
+r2_hbca_c83_AGGAGGTAGAGAGCCT-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c23_CCGTACTAGGTGCTTT	basal cell	Ref20k
+hbca_c137_hbca_c137_CGAGAAGTCCAACTGA-1	basal cell	Ref20k
+r1_hbca_c33_TCCGAAAGTGATGTAA	fibroblast	Ref20k
+hbca_c159_hbca_c159_TACGTCCTCGTTCAGA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c78_ACTTTGTCAAGGTCAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_TGATTCTGTTGTCAGT-1	basal cell	Ref20k
+hbca_c140_hbca_c140_TATACCTCAGGTGACA-1	basal cell	Ref20k
+r1_hbca_c24_CTGAAGTGTCTCATCC	basal cell	Ref20k
+r2_hbca_c96_TTGCTGCTCTACGCGG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c162_hbca_c162_AACAGGGTCACTTCTA-1	fibroblast	Ref20k
+r2_hbca_c80_AGACAAACAATCGCAT-1	basal cell	Ref20k
+r1_hbca_c33_GCTTGGGTCCTGGCTT	alternatively activated macrophage	Ref20k
+hbca_c117_hbca_c117_ACAGCCGTCCGCGGAT-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c17_TTAGGCACATCAGTAC	class switched memory B cell	Ref20k
+hbca_c149_hbca_c149_CTATAGGGTCGCGTCA-1	basal cell	Ref20k
+hbca_c148_hbca_c148_GATTGGTAGACCTGGA-1	basal cell	Ref20k
+r2_hbca_c65_CCTTGTGGTGCATACT-1	fibroblast	Ref20k
+r1_hbca_c26_ATCGAGTGTTTGGGCC	vein endothelial cell	Ref20k
+r2_hbca_c69_TACGGGCCAATCGCAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c18_CGTAGCGGTATCGCAT	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c89_GCCCAGACATTGGATC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c96_CAGCAATGTCGAGCTC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c129_hbca_c129_TTAGGGTGTTCTCGCT-1	fibroblast	Ref20k
+hbca_c127_hbca_c127_TCATCCGAGGCAATGC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c160_hbca_c160_GCAGCCAGTCAATGGG-1	fibroblast	Ref20k
+hbca_c148_hbca_c148_TGAACGTAGGGATCTG-1	basal cell	Ref20k
+r2_hbca_c61_GACCAATAGTTAGTGA-1	alternatively activated macrophage	Ref20k
+hbca_c113_hbca_c113_GTCGAATTCGGAAACG-1	basal cell	Ref20k
+hbca_c122_hbca_c122_GGGTCTGGTATCGCAT-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c86_TGAACGTTCACGGAGA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c63_AAGGTAAGTCCAGTTA-1	endothelial cell of artery	Ref20k
+hbca_c138_hbca_c138_TCTGGCTCAGAGGTTG-1	fibroblast	Ref20k
+r2_hbca_c73_CATCGCTTCCCTCGAT-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c134_hbca_c134_TTGGGATCATAACAGA-1	basal cell	Ref20k
+hbca_c137_hbca_c137_TGACTCCCAATAGTCC-1	fibroblast	Ref20k
+r2_hbca_c66_TTTCGATCAGCTGAGA-1	fibroblast	Ref20k
+hbca_c111_hbca_c111_ACTCCCAAGCGCTTCG-1	fibroblast	Ref20k
+hbca_c166_hbca_c166_AGTTCGACAGCACAGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c148_hbca_c148_ACGATGTAGTCGGCCT-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_AGGAATAGTATGCTTG-1	natural killer cell	Ref20k
+hbca_c120_hbca_c120_CTGCCTATCACTGTTT-1	endothelial cell of artery	Ref20k
+r2_hbca_c50_CGTCCATCATTAAAGG-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c67_TACCTGCTCTTCGGAA-1	macrophage	Ref20k
+r2_hbca_c57_CTGGTCTCATTCTCCG-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c144_hbca_c144_CATTCATCAGGTATGG-1	basal cell	Ref20k
+hbca_c155_hbca_c155_ATTTCACCAGTTAGGG-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c154_hbca_c154_TACACCCTCGAACCAT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c31_ATTGGTGAGCGTGTCC	vascular associated smooth muscle cell	Ref20k
+hbca_c117_hbca_c117_TCCCACAAGGTTCACT-1	basal cell	Ref20k
+hbca_c126_hbca_c126_TCCTCCCGTTCTCGCT-1	fibroblast	Ref20k
+r2_hbca_c75_TTGAGTGCAGTAGGAC-1	fibroblast	Ref20k
+hbca_c122_hbca_c122_TGACGCGCACTTGTGA-1	fibroblast	Ref20k
+r2_hbca_c79_CACCGTTAGAAAGTCT-1	fibroblast	Ref20k
+hbca_c153_hbca_c153_CTTCCGACAAACTAAG-1	vein endothelial cell	Ref20k
+r1_hbca_c51_AGGACTTTCGTGCATA	alternatively activated macrophage	Ref20k
+hbca_c139_hbca_c139_GATTGGTCAGATTCGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c144_hbca_c144_CATACAGAGTGGAATT-1	capillary endothelial cell	Ref20k
+hbca_c123_hbca_c123_TAGGAGGCATCAGTCA-1	regulatory T cell	Ref20k
+hbca_c154_hbca_c154_TGCAGATTCATTGGTG-1	pericyte	Ref20k
+r1_hbca_c49_GTTGTAGCACCCTAAA	capillary endothelial cell	Ref20k
+r1_hbca_c29_GAGCAGAAGTTAGGTA	basal cell	Ref20k
+hbca_c108_hbca_c108_TAACCAGCATAGGTTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c74_TCAGCCTGTCGGTGAA-1	fibroblast	Ref20k
+hbca_c138_hbca_c138_TTTGGTTTCCCTTTGG-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_GTTGTGAGTTCGGCCA-1	fibroblast	Ref20k
+r2_hbca_c51_TGTTCATTCCGTGTAA-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c149_hbca_c149_ATTTACCTCTAGTCAG-1	mammary gland epithelial cell	Ref20k
+hbca_c123_hbca_c123_CAGGTATGTGTTATCG-1	IgG plasma cell	Ref20k
+r1_hbca_c37_CGCAGGTTCTGATTCT	fibroblast	Ref20k
+r2_hbca_c76_CGTGCTTTCTAAGAAG-1	pericyte	Ref20k
+hbca_c154_hbca_c154_GCGGAAATCTCATTAC-1	endothelial cell of artery	Ref20k
+r2_hbca_c66_CCACCATTCCACTTTA-1	inflammatory macrophage	Ref20k
+hbca_c156_hbca_c156_TGGGCGTGTACGATTC-1	fibroblast	Ref20k
+r2_hbca_c71_TTAGTCTGTAGCTGTT-1	vein endothelial cell	Ref20k
+hbca_c133_hbca_c133_GACCCAGTCTCTATAC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c149_hbca_c149_TCAGGTATCACTCCGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c139_hbca_c139_CTGATCCAGTCCTGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c62_GCTGAATGTACGTAGG-1	basal cell	Ref20k
+r1_hbca_c39_TATCTGTGTTGGATCT	fibroblast	Ref20k
+hbca_c111_hbca_c111_TGTGAGTTCGGCTCTT-1	fibroblast	Ref20k
+r1_hbca_c23_CTCTGGTAGCTGATAA	vein endothelial cell	Ref20k
+r1_hbca_c47_AGGTCATCAAAGTGTA	fibroblast	Ref20k
+hbca_c126_hbca_c126_TGCTGAACAAATGGAT-1	fibroblast	Ref20k
+r1_hbca_c21_ACTATCTAGTGGGTTG	endothelial cell of artery	Ref20k
+hbca_c110_hbca_c110_GATGCTAGTGCACAAG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c29_TGACAACCATACTACG	fibroblast	Ref20k
+r2_hbca_c78_GGGCCATAGTTTGTCG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c123_hbca_c123_GCCAGTGCAGGACAGT-1	regulatory T cell	Ref20k
+r2_hbca_c100_CACTGGGGTATTTCCT-1	vein endothelial cell	Ref20k
+r2_hbca_c66_TGAGCGCCAGGCTCTG-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_AAACGAATCGCCCAGA-1	basal cell	Ref20k
+hbca_c119_hbca_c119_AGTTAGCTCGGCACTG-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c148_hbca_c148_GGAGAACGTCCCGCAA-1	basal cell	Ref20k
+hbca_c143_hbca_c143_ACCCTTGAGACAGCGT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c126_hbca_c126_GAGTTACTCATACGAC-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_AGTACTGGTATTTCGG-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c62_ACAAAGAGTTCCGCGA-1	fibroblast	Ref20k
+r1_hbca_c30_GGCCGATCATGAACCT	capillary endothelial cell	Ref20k
+hbca_c122_hbca_c122_GTCGCGAGTTATAGCC-1	fibroblast	Ref20k
+hbca_c132_hbca_c132_CTTAGGATCGTTCTCG-1	basal cell	Ref20k
+r2_hbca_c86_TCGTGGGAGTGACCTT-1	fibroblast	Ref20k
+hbca_c160_hbca_c160_GTAGAGGTCTCGCTCA-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c44_TATCGCCCAGCCTACG	vascular associated smooth muscle cell	Ref20k
+hbca_c150_hbca_c150_GAGGCCTTCACCCTGT-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c138_hbca_c138_AAGCATCGTCAGCGTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c63_AGATCGTGTTAATCGC-1	fibroblast	Ref20k
+r2_hbca_c75_TCGAAGTGTGAACGGT-1	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c29_CATTATCGTTACGTCA	fibroblast	Ref20k
+hbca_c138_hbca_c138_CACAACATCGACTCCT-1	fibroblast	Ref20k
+hbca_c144_hbca_c144_TAGTGCAGTCCCGGTA-1	pericyte	Ref20k
+r2_hbca_c79_GAGAGGTGTTATCCAG-1	fibroblast	Ref20k
+r2_hbca_c49_GCCATGGGTCTCCTGT-1	fibroblast	Ref20k
+r2_hbca_c56_TCGCTCATCGTTCGCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c101_hbca_c101_GTTTGGAAGCTACGTT-1	conventional dendritic cell	Ref20k
+r1_hbca_c50_TGCTGAAGTGCGGCTT	capillary endothelial cell	Ref20k
+hbca_c106_hbca_c106_TCGTGCTAGTGCCTCG-1	alternatively activated macrophage	Ref20k
+hbca_c126_hbca_c126_CATGAGTAGATACAGT-1	fibroblast	Ref20k
+r2_hbca_c55_TACGGTAGTTACCGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c77_ATGAGTCAGCGCACAA-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c70_CTGAGCGAGAGTCAGC-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c33_ACTCTCGGTTCGGGTC	macrophage	Ref20k
+r1_hbca_c28_AGCGTATCATTTCACT	fibroblast	Ref20k
+hbca_c115_hbca_c115_TTGTTTGGTCGCACGT-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_CGAGAAGTCGTCAAAC-1	endothelial cell of artery	Ref20k
+r1_hbca_c52_GCCCGAAGTGTTACAC	fibroblast	Ref20k
+hbca_c146_hbca_c146_CATACAGGTGGTCAAG-1	vein endothelial cell	Ref20k
+r1_hbca_c33_TACTTCATCACTCTTA	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c56_TTTATGCAGACTACCT-1	regulatory T cell	Ref20k
+hbca_c113_hbca_c113_AGTTAGCTCCTAGAGT-1	natural killer cell	Ref20k
+hbca_c107_hbca_c107_GCTACAATCCCATAGA-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_GAAGCCCTCCGTTGAA-1	basal cell	Ref20k
+hbca_c134_hbca_c134_AGCGATTGTTCGGACC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c158_hbca_c158_TGCTCGTAGCGCAATG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c94_GGCTGTGGTTACACAC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c57_ATCCACCGTGTGCTTA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c68_ATCCATTCAGAGCGTA-1	fibroblast	Ref20k
+hbca_c134_hbca_c134_AAGCCATAGATTAGTG-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c39_CAGCAGCGTTCAATCG	fibroblast	Ref20k
+hbca_c118_hbca_c118_TGGAGGATCCGAAGGA-1	basal cell	Ref20k
+r1_hbca_c51_GAACACTCATCATCCC	capillary endothelial cell	Ref20k
+hbca_c141_hbca_c141_CTACTATCATAATGCC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c90_TGCGACGTCTGAATCG-1	basal cell	Ref20k
+hbca_c121_hbca_c121_ACTATTCTCGGAATGG-1	fibroblast	Ref20k
+r1_hbca_c18_CACAGTAGTGCAGTAG	capillary endothelial cell	Ref20k
+hbca_c111_hbca_c111_ATGCCTCTCGGTTAGT-1	fibroblast	Ref20k
+r1_hbca_c28_ATCACGACACGGTTTA	fibroblast	Ref20k
+r2_hbca_c68_CCTAAGATCGGCCTTT-1	pericyte	Ref20k
+r2_hbca_c53_CACCAAAAGTAGTGCG-1	IgA plasma cell	Ref20k
+hbca_c139_hbca_c139_CTTCCGAGTGTGTCGC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c148_hbca_c148_CTTCTAAGTGGATTTC-1	basal cell	Ref20k
+r2_hbca_c79_TAATTCCTCTATGCCC-1	basal cell	Ref20k
+r1_hbca_c48_TACCTGCTCTCCAAGA	pericyte	Ref20k
+r2_hbca_c75_CTAGACAGTAAGGCCA-1	fibroblast	Ref20k
+hbca_c121_hbca_c121_TCCATCGAGCCATTCA-1	fibroblast	Ref20k
+hbca_c101_hbca_c101_TCAGTGACATGGCCAC-1	basal cell	Ref20k
+r2_hbca_c74_ATCTTCAGTTTGAACC-1	fibroblast	Ref20k
+r1_hbca_c23_TCAATCTGTCTGGAGA	basal cell	Ref20k
+r2_hbca_c63_TGTACAGCACTCCTGT-1	basal cell	Ref20k
+hbca_c107_hbca_c107_ATTACCTGTCGCACGT-1	vein endothelial cell	Ref20k
+r1_hbca_c33_TGTTTGTGTTGCTAGT	classical monocyte	Ref20k
+r1_hbca_c43_GGCTGTGAGTTACTCG	fibroblast	Ref20k
+hbca_c164_hbca_c164_TCCTCTTCATGACGTT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c28_ATTCTACAGCTGAACG	capillary endothelial cell	Ref20k
+hbca_c134_hbca_c134_CTCAAGACAAAGGATT-1	basal cell	Ref20k
+r2_hbca_c53_TGCAGGCTCATCGCAA-1	basal cell	Ref20k
+r1_hbca_c16_ACGAGGAAGTACGTTC	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c24_AGCTCCTCAAGCGTAG	vein endothelial cell	Ref20k
+r2_hbca_c76_GCTACAAGTAACATGA-1	fibroblast	Ref20k
+hbca_c155_hbca_c155_TCGAACAGTATACGGG-1	vein endothelial cell	Ref20k
+hbca_c166_hbca_c166_CCCTCAATCGTTATCT-1	fibroblast	Ref20k
+r1_hbca_c14_GATGCTAAGCCTCGTG	alternatively activated macrophage	Ref20k
+r2_hbca_c60_AACGTCAGTCACAGTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c146_hbca_c146_AACGGGAAGGCATTTC-1	fibroblast	Ref20k
+r2_hbca_c79_GTGCTGGCATCACCAA-1	vein endothelial cell	Ref20k
+hbca_c119_hbca_c119_GTAGAAAAGAGGATGA-1	basal cell	Ref20k
+r2_hbca_c49_GGGTTATAGCGACAGT-1	fibroblast	Ref20k
+r2_hbca_c80_CTCCATGAGCGCTTCG-1	fibroblast	Ref20k
+r2_hbca_c78_TAACGACAGGGACACT-1	fibroblast	Ref20k
+r2_hbca_c82_CCACTTGGTCCGGTCA-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_ACTGTGAGTCGATGCC-1	basal cell	Ref20k
+r2_hbca_c72_GACTCTCTCTAGACAC-1	fibroblast	Ref20k
+r2_hbca_c71_GTGGAGACAGCAAGAC-1	fibroblast	Ref20k
+r2_hbca_c77_GGTAGAGAGTAAACTG-1	capillary endothelial cell	Ref20k
+hbca_c137_hbca_c137_GTGCAGCGTCCACATA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c66_CTATCTAAGGTCGTGA-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_GGCTTGGGTATCGTGT-1	vascular associated smooth muscle cell	Ref20k
+hbca_c132_hbca_c132_CCTGCATCAGTCTTCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c118_hbca_c118_GCTACAATCTACTGAG-1	basal cell	Ref20k
+r1_hbca_c51_AATCGACCAGTTTCGA	fibroblast	Ref20k
+hbca_c130_hbca_c130_GTCAAGTGTGTGCCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c77_TTGCGTCCAGTATGAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c149_hbca_c149_TCCACGTCATACTGAC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c141_hbca_c141_GTGCTGGGTAACGATA-1	basal cell	Ref20k
+r2_hbca_c97_CAGATTGGTTCTCACC-1	basal cell	Ref20k
+r1_hbca_c44_ATCGTGAGTTGGGATG	pericyte	Ref20k
+r1_hbca_c28_CGCTGGAAGAAGGGTA	fibroblast	Ref20k
+r2_hbca_c84_AACCATGGTGGCAACA-1	capillary endothelial cell	Ref20k
+r2_hbca_c47_TCCCATGAGGGTTGCA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c26_ATTATCCGTTGGACCC	mammary gland epithelial cell	Ref20k
+r1_hbca_c23_GCTGGGTGTATAATGG	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c114_hbca_c114_ACCGTTCGTGAACGGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c132_hbca_c132_CAAGAGGGTTCGGCTG-1	fibroblast	Ref20k
+r2_hbca_c91_TCCGAAACATGACGTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c87_TCATACTCAGTTAGGG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c70_TTACCGCCATGAAGGC-1	fibroblast	Ref20k
+r2_hbca_c96_AGAGCCCTCATGCAGT-1	CD4-positive helper T cell	Ref20k
+hbca_c145_hbca_c145_GTGAGTTGTCTACAGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c71_TGGGAAGTCTAGACCA-1	fibroblast	Ref20k
+r2_hbca_c84_CTCAACCCAACCGACC-1	pericyte	Ref20k
+hbca_c136_hbca_c136_GGTCTGGGTATGAGAT-1	basal cell	Ref20k
+hbca_c119_hbca_c119_ATGGTTGAGGTGCCAA-1	inflammatory macrophage	Ref20k
+r2_hbca_c81_GCAACATGTCCGAAAG-1	fibroblast	Ref20k
+r1_hbca_c49_GCTTTCGGTGTTGAGG	alternatively activated macrophage	Ref20k
+hbca_c154_hbca_c154_TTTGACTAGTCGCCCA-1	fibroblast	Ref20k
+r2_hbca_c78_AATGAAGCAGTAGTTC-1	CD4-positive helper T cell	Ref20k
+hbca_c117_hbca_c117_TCCCAGTGTACCAATC-1	basal cell	Ref20k
+r2_hbca_c53_TATTTCGGTCGTTTCC-1	T cell	Ref20k
+hbca_c162_hbca_c162_AGGTTACGTAGTCACT-1	inflammatory macrophage	Ref20k
+hbca_c102_hbca_c102_GTAACCATCCCGAGGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c99_GTTGTCCAGTAAGCAT-1	fibroblast	Ref20k
+hbca_c102_hbca_c102_CCCTAACGTTCGGCGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c76_ACGTTCCTCACTTATC-1	inflammatory macrophage	Ref20k
+hbca_c138_hbca_c138_GAATCACTCGTCCATC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c104_hbca_c104_AGGGTCCTCCTACACC-1	CD4-positive helper T cell	Ref20k
+hbca_c144_hbca_c144_TCATTGTCACCTAAAC-1	endothelial cell of artery	Ref20k
+r2_hbca_c73_CCACGTTTCCAGTGTA-1	alternatively activated macrophage	Ref20k
+r2_hbca_c96_CCTCTCCGTATTGGCT-1	fibroblast	Ref20k
+hbca_c146_hbca_c146_TGAGGAGCACCGTACG-1	conventional dendritic cell	Ref20k
+hbca_c102_hbca_c102_GGGTGTCCACTCTAGA-1	fibroblast	Ref20k
+r2_hbca_c74_CGGAATTAGTCACGAG-1	classical monocyte	Ref20k
+r1_hbca_c38_GTAAGTCTCCACTAGA	vein endothelial cell	Ref20k
+r2_hbca_c99_AAGCGAGGTATGTCAC-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c88_GAAATGAGTACTTCCC-1	fibroblast	Ref20k
+r2_hbca_c84_TTCACCGAGCAGGTCA-1	fibroblast	Ref20k
+hbca_c121_hbca_c121_AACAACCCACTACACA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c136_hbca_c136_GTATTTCTCGAAGCCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c10_CTTAGGAAGAGATGAG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c125_hbca_c125_ACGCACGGTGGTAATA-1	fibroblast	Ref20k
+hbca_c130_hbca_c130_CATGGTACACTTCCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c45_GCTCAAATCTAGTGAC	pericyte	Ref20k
+hbca_c139_hbca_c139_ACCCAAATCATCACTT-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_CGAGTTACACTACTTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c159_hbca_c159_CATTGAGGTGTTAAAG-1	basal cell	Ref20k
+hbca_c155_hbca_c155_TCGACGGCATGGCCCA-1	vein endothelial cell	Ref20k
+hbca_c163_hbca_c163_AGGATCTAGAAGCCTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c39_CGTCCATGTATGACAA	alternatively activated macrophage	Ref20k
+r2_hbca_c58_GACTCAATCGACGATT-1	capillary endothelial cell	Ref20k
+r1_hbca_c48_GCAACCGAGAGCTTTC	pericyte	Ref20k
+hbca_c127_hbca_c127_GTCATGAAGAGGTCGT-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c66_TCGGTCTCAACGTTAC-1	IgA plasma cell	Ref20k
+hbca_c159_hbca_c159_TCTACCGTCGGTAACT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c120_hbca_c120_TGCACGGGTTACCGTA-1	fibroblast	Ref20k
+r2_hbca_c91_GACTCTCGTTTGAAAG-1	fibroblast	Ref20k
+r2_hbca_c55_ATTCAGGCAGGGAATC-1	fibroblast	Ref20k
+hbca_c141_hbca_c141_CACTTCGCAGCTTTCC-1	capillary endothelial cell	Ref20k
+r1_hbca_c28_CGCGTTTGTGCTTCTC	fibroblast	Ref20k
+hbca_c101_hbca_c101_CCGGTGATCAAAGACA-1	basal cell	Ref20k
+r2_hbca_c96_CTTCCTTGTGCACATT-1	fibroblast	Ref20k
+r1_hbca_c24_ACCAGTACACCGGAAA	fibroblast	Ref20k
+hbca_c154_hbca_c154_AGTGATCAGTTGCCCG-1	basal cell	Ref20k
+r1_hbca_c39_CTACCTGGTTTGGAGG	capillary endothelial cell	Ref20k
+r1_hbca_c22_TCGGTAATCACTTACT	capillary endothelial cell	Ref20k
+r1_hbca_c41_ATGACCATCCTGGGTG	pericyte	Ref20k
+hbca_c126_hbca_c126_GAACGTTAGGCTAGCA-1	fibroblast	Ref20k
+r2_hbca_c69_CAGAGCCCAATGCAGG-1	conventional dendritic cell	Ref20k
+hbca_c137_hbca_c137_GCCCGAAGTCCAAAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c119_hbca_c119_TCTATCATCTAACGCA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c111_hbca_c111_CCTCACACAGCTGTAT-1	fibroblast	Ref20k
+hbca_c125_hbca_c125_TGCACGGTCACCGCTT-1	fibroblast	Ref20k
+hbca_c141_hbca_c141_GGTGATTGTGTTGATC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c127_hbca_c127_GTGGGAACACATCCCT-1	basal cell	Ref20k
+r1_hbca_c31_GCAAACTTCGCTAGCG	mammary gland epithelial cell	Ref20k
+r2_hbca_c70_ACGATCAGTAATCAAG-1	fibroblast	Ref20k
+r1_hbca_c52_AGAGCAGTCCTACGAA	fibroblast	Ref20k
+hbca_c165_hbca_c165_CGTCAAACAGTTTCAG-1	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c82_GATTCGAGTCACGTGC-1	capillary endothelial cell	Ref20k
+hbca_c139_hbca_c139_TACTTCAAGTGAGCCA-1	basal cell	Ref20k
+r1_hbca_c27_AACTCCCAGGATGGAA	inflammatory macrophage	Ref20k
+hbca_c103_hbca_c103_ACTCCCAGTCGCGTTG-1	endothelial cell of artery	Ref20k
+hbca_c165_hbca_c165_CGCCATTCACTGAGTT-1	fibroblast	Ref20k
+r2_hbca_c74_TCTGTCGAGTAGTCAA-1	fibroblast	Ref20k
+hbca_c144_hbca_c144_CCTTGTGAGCAGGCAT-1	basal cell	Ref20k
+hbca_c146_hbca_c146_TCAGGGCCAACGGGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c49_AAGTGAAAGGGCCAAT-1	basal cell	Ref20k
+r1_hbca_c52_ACGGGTCAGTGGACGT	pericyte	Ref20k
+hbca_c148_hbca_c148_ACATGCAAGGCTGGAT-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c28_CTGAAGTCAGACAGGT	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c85_GGTTAACTCCCAACTC-1	fibroblast	Ref20k
+r2_hbca_c77_CAGTGCGAGCCGATTT-1	capillary endothelial cell	Ref20k
+hbca_c103_hbca_c103_TCACATTAGGGCAAGG-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_CGTAATGTCGCGCCAA-1	pericyte	Ref20k
+r2_hbca_c73_GTTCTATCAAACTAGA-1	basal cell	Ref20k
+hbca_c127_hbca_c127_CACGTTCAGAGAGCGG-1	capillary endothelial cell	Ref20k
+hbca_c139_hbca_c139_TACAGGTGTAGAGACC-1	vascular associated smooth muscle cell	Ref20k
+hbca_c122_hbca_c122_GTTTACTCACACACGC-1	activated CD4-positive, alpha-beta T cell	Ref20k
+hbca_c124_hbca_c124_CACAACATCTGTCTCG-1	fibroblast	Ref20k
+hbca_c150_hbca_c150_GTCGTAACACTTTATC-1	mammary gland epithelial cell	Ref20k
+hbca_c150_hbca_c150_ATTCCCGGTACATTGC-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c54_AACCAACAGACAACTA-1	endothelial cell of lymphatic vessel	Ref20k
+r2_hbca_c97_CAGGTATTCGTTGTTT-1	basal cell	Ref20k
+hbca_c136_hbca_c136_CGAATTGCAAGATCCT-1	mammary gland epithelial cell	Ref20k
+hbca_c161_hbca_c161_GAGTCTACAGTCGAGA-1	basal cell	Ref20k
+r1_hbca_c28_GGGCATCCAAGGCTCC	mammary gland epithelial cell	Ref20k
+r2_hbca_c72_GTAGATCAGGGAGATA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c82_GCCAGTGAGGTAGGCT-1	CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c43_CTTCTCTAGGGAGTTC	fibroblast	Ref20k
+hbca_c134_hbca_c134_CGTTCTGTCACTACTT-1	fibroblast	Ref20k
+hbca_c109_hbca_c109_ACGGGTCGTACGATCT-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c65_CAACGATGTTCTCTAT-1	CD4-positive helper T cell	Ref20k
+hbca_c152_hbca_c152_TACGGTATCAAGGCTT-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c33_TCATGTTGTACCCACG	fibroblast	Ref20k
+hbca_c142_hbca_c142_GAATCGTGTGCTCTTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c98_TTACTGTTCAAGTGGG-1	inflammatory macrophage	Ref20k
+r1_hbca_c51_CTGGCAGCAAGTGCAG	inflammatory macrophage	Ref20k
+r2_hbca_c73_GCCGTGATCCTACTGC-1	fibroblast	Ref20k
+r2_hbca_c66_ACCTGAAGTCAATGGG-1	fibroblast	Ref20k
+r2_hbca_c90_AGCTTCCGTTGGCCGT-1	basal cell	Ref20k
+r1_hbca_c09_GCTCTGTAGAGCAATT	endothelial cell of lymphatic vessel	Ref20k
+hbca_c152_hbca_c152_ATCGTGAAGGATAATC-1	mammary gland epithelial cell	Ref20k
+hbca_c147_hbca_c147_GAAATGAGTTACCCTC-1	pericyte	Ref20k
+r1_hbca_c47_TGGGCTGCAATAACGA	fibroblast	Ref20k
+r2_hbca_c99_TCCTTCTCAAGACCTT-1	fibroblast	Ref20k
+hbca_c119_hbca_c119_TTCACGCCAGTAGGAC-1	vein endothelial cell	Ref20k
+r1_hbca_c49_TGTTTGTTCACGACTA	capillary endothelial cell	Ref20k
+r2_hbca_c60_ACGGAAGGTGATACAA-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c148_hbca_c148_TTTCCTCGTCTACACA-1	basal cell	Ref20k
+r1_hbca_c29_CGATGTACACGACGAA	basal cell	Ref20k
+r1_hbca_c51_TCCCAGTGTATGATCC	fibroblast	Ref20k
+hbca_c165_hbca_c165_AAGATAGTCTTTCGAT-1	naive B cell	Ref20k
+r1_hbca_c25_GCCAAATAGTACACCT	basal cell	Ref20k
+r2_hbca_c69_AGTACCACACTCCTGT-1	vein endothelial cell	Ref20k
+r1_hbca_c51_TGCACGGGTAAGTTAG	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c80_AAACGCTTCCCATTCG-1	basal cell	Ref20k
+hbca_c139_hbca_c139_TGCTTGCGTAACTTCG-1	endothelial cell of artery	Ref20k
+hbca_c106_hbca_c106_GGACGTCTCGACCACG-1	activated CD4-positive, alpha-beta T cell	Ref20k
+hbca_c137_hbca_c137_GCCATGGGTAGAGTTA-1	vascular associated smooth muscle cell	Ref20k
+hbca_c136_hbca_c136_CTTGAGAAGCAGGCAT-1	vein endothelial cell	Ref20k
+r2_hbca_c70_TCCTTTCGTCAGGAGT-1	fibroblast	Ref20k
+r2_hbca_c91_CACTTCGTCTAGAGCT-1	basal cell	Ref20k
+hbca_c118_hbca_c118_TCCCACAAGATGTAGT-1	fibroblast	Ref20k
+r1_hbca_c44_ACAGAAACATGCAGGA	pericyte	Ref20k
+r1_hbca_c37_CACGTGGGTGGACCAA	fibroblast	Ref20k
+r2_hbca_c49_CGATGGCAGCTTAAGA-1	basal cell	Ref20k
+r2_hbca_c73_GCTTCACTCTCTCAAT-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_TGCTGAAGTTTGGCTA-1	mammary gland epithelial cell	Ref20k
+hbca_c107_hbca_c107_ACTTTCAGTCAAAGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c61_TCCATCGTCGTTCTAT-1	capillary endothelial cell	Ref20k
+hbca_c143_hbca_c143_AAGCGTTCAGCGTATT-1	CD4-positive helper T cell	Ref20k
+hbca_c103_hbca_c103_TGCGGCACATGACGGA-1	fibroblast	Ref20k
+r1_hbca_c37_TGTTCCGCACGGAAGT	fibroblast	Ref20k
+hbca_c130_hbca_c130_CGAATTGCAGAGTGTG-1	fibroblast	Ref20k
+hbca_c164_hbca_c164_AGCGTCGTCAGCTGTA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c16_TACACGAAGGATGGAA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c132_hbca_c132_TCATGCCAGCTTTCTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c165_hbca_c165_GTTAGACAGCGGGTAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c156_hbca_c156_TCAGTGAGTGTCTTAG-1	basal cell	Ref20k
+hbca_c161_hbca_c161_GACGTTAGTTACCTGA-1	fibroblast	Ref20k
+r1_hbca_c46_ACGTCCTTCGGCTTCT	fibroblast	Ref20k
+hbca_c158_hbca_c158_TCGTGGGAGGACAGCT-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_CGCCATTTCCGTGCGA-1	fibroblast	Ref20k
+r1_hbca_c30_GACGTGCAGGACCACA	basal cell	Ref20k
+hbca_c142_hbca_c142_TCTCCGACACCGAATT-1	fibroblast	Ref20k
+hbca_c151_hbca_c151_AACACACTCGGAATTC-1	capillary endothelial cell	Ref20k
+hbca_c139_hbca_c139_CAAGAGGGTTTCTATC-1	basal cell	Ref20k
+r2_hbca_c62_ACAACCATCTCTCCGA-1	basal cell	Ref20k
+hbca_c101_hbca_c101_GGAATGGGTCCTATAG-1	basal cell	Ref20k
+r2_hbca_c79_GTTACCCGTTAGTCGT-1	basal cell	Ref20k
+hbca_c140_hbca_c140_GGCTTTCCATATGGCT-1	basal cell	Ref20k
+hbca_c133_hbca_c133_CACGGGTGTGAGTAGC-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_CTGTCGTCATACAGAA-1	vein endothelial cell	Ref20k
+r1_hbca_c28_GGACATTTCTTGAGGT	capillary endothelial cell	Ref20k
+hbca_c142_hbca_c142_ACGCACGTCGTTGTTT-1	basal cell	Ref20k
+hbca_c143_hbca_c143_GCAACCGAGGCTGAAC-1	vein endothelial cell	Ref20k
+r2_hbca_c95_TTCTGTAGTGGATCGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c115_hbca_c115_TTCCTTCGTAATCAAG-1	fibroblast	Ref20k
+r2_hbca_c75_ACACTGACACGTCTCT-1	activated CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c21_AAGCCGCCAGTGACAG	mature NK T cell	Ref20k
+r2_hbca_c74_GTCATTTGTAACAGTA-1	fibroblast	Ref20k
+hbca_c132_hbca_c132_TCGTGGGAGATAGTCA-1	fibroblast	Ref20k
+r2_hbca_c48_CTGCCATGTACTGGGA-1	endothelial cell of artery	Ref20k
+r1_hbca_c50_AGTCATGGTTGTTGTG	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c07_CACACCTGTTGCTCCT	luminal epithelial cell of mammary gland	Ref20k
+hbca_c154_hbca_c154_AGGGTCCGTACCTTCC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c161_hbca_c161_GGGATCCAGATTGAGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c89_ATACCGAAGCGGATCA-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_TCACATTAGTCCCAAT-1	fibroblast	Ref20k
+hbca_c138_hbca_c138_CCGGTAGGTGTTTACG-1	fibroblast	Ref20k
+r2_hbca_c76_CGAGGAACATAGGTTC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c22_TTAGGCAGTGCGATAG	capillary endothelial cell	Ref20k
+hbca_c116_hbca_c116_AGTGCCGGTACGTAGG-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c16_TTCGGTCCATCGGAAG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c164_hbca_c164_GTCGTTCTCTCAACGA-1	fibroblast	Ref20k
+r2_hbca_c91_AGATGAACAGCTGTCG-1	fibroblast	Ref20k
+hbca_c166_hbca_c166_TAAGCCAGTTGGGACA-1	CD4-positive helper T cell	Ref20k
+hbca_c109_hbca_c109_AACCCAATCGTACACA-1	basal cell	Ref20k
+hbca_c126_hbca_c126_TCGTGGGGTATTCCGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c150_hbca_c150_AGCGTCGAGGCAGCTA-1	fibroblast	Ref20k
+hbca_c163_hbca_c163_TGTGTGATCCGGTAAT-1	CD4-positive helper T cell	Ref20k
+hbca_c164_hbca_c164_ACAGAAAAGACACACG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c21_GGGTTGCCATCAGTAC	endothelial cell of artery	Ref20k
+r2_hbca_c73_CGGGTGTCAACCTAAC-1	fibroblast	Ref20k
+hbca_c107_hbca_c107_TAACTTCGTTGGACTT-1	mammary gland epithelial cell	Ref20k
+hbca_c163_hbca_c163_CAGTTCCAGCTTGTTG-1	pericyte	Ref20k
+hbca_c127_hbca_c127_ACCTACCAGAGAGCGG-1	capillary endothelial cell	Ref20k
+hbca_c105_hbca_c105_CCCTCAAAGATCACTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c77_GAATCACCACACCAGC-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c41_TTCTAACTCATAGAGA	pericyte	Ref20k
+r1_hbca_c23_GAGCAGACAGTTTACG	fibroblast	Ref20k
+hbca_c119_hbca_c119_TATCGCCAGTTTCAGC-1	basal cell	Ref20k
+r2_hbca_c79_GCAGTTACAGATCACT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c100_TTCTCTCTCTCCCATG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c78_CAGAGCCGTCGGCACT-1	basal cell	Ref20k
+hbca_c117_hbca_c117_AACTTCTGTAGAATAC-1	fibroblast	Ref20k
+r2_hbca_c80_AGACTCAGTGACCGTC-1	basal cell	Ref20k
+r1_hbca_c03_GAGGTGAAGGGATGGG	macrophage	Ref20k
+r2_hbca_c66_TTGACCCCACAATGTC-1	mammary gland epithelial cell	Ref20k
+hbca_c103_hbca_c103_CCACACTGTTGGGTAG-1	CD4-positive helper T cell	Ref20k
+hbca_c165_hbca_c165_ATTCATCTCTTCGGAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c131_hbca_c131_CTCATGCTCAAAGCCT-1	basal cell	Ref20k
+hbca_c138_hbca_c138_CTACCTGGTGATAGAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c126_hbca_c126_TTGGATGTCTCATTTG-1	basal cell	Ref20k
+hbca_c132_hbca_c132_CATTTCATCTAACGCA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c136_hbca_c136_CCACTTGTCCGTGTAA-1	conventional dendritic cell	Ref20k
+hbca_c125_hbca_c125_AACAACCTCTTGGATG-1	CD4-positive helper T cell	Ref20k
+hbca_c146_hbca_c146_CTGGACGTCTGACGCG-1	endothelial cell of artery	Ref20k
+r1_hbca_c24_TGTGTTTCACAGGCCT	vein endothelial cell	Ref20k
+r1_hbca_c50_TTGTTTGGTAACACCT	fibroblast	Ref20k
+r1_hbca_c33_ATGAAAGGTGCTCGTG	fibroblast	Ref20k
+hbca_c142_hbca_c142_TACGTCCTCCTTATAC-1	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c114_hbca_c114_TCGTGCTAGGCGCTCT-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c66_ACGGTCGTCATTCATC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c137_hbca_c137_TTCTAACGTGCCCGTA-1	basal cell	Ref20k
+hbca_c117_hbca_c117_CCACAAAGTCACCGAC-1	basal cell	Ref20k
+hbca_c106_hbca_c106_TCCTCTTTCTCATTAC-1	fibroblast	Ref20k
+hbca_c167_hbca_c167_TCGTAGAGTGACAGGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c149_hbca_c149_ACCCTTGTCTGGTGCG-1	mammary gland epithelial cell	Ref20k
+hbca_c117_hbca_c117_TCATTTGCATAGATCC-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c50_TGCATCCCAATTGGTC	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c153_hbca_c153_AGTCTCCTCCGGACGT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c99_CTGCCTATCTTACGGA-1	pericyte	Ref20k
+r1_hbca_c03_CAACTAGTCGTTTGCC	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c100_CTCATCGTCACTTTGT-1	CD4-positive, alpha-beta T cell	Ref20k
+hbca_c155_hbca_c155_GAAGAATGTAGAGATT-1	basal cell	Ref20k
+hbca_c109_hbca_c109_TGCAGATTCCGCAGTG-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c68_CCTTTGGGTACCCGAC-1	CD4-positive helper T cell	Ref20k
+hbca_c156_hbca_c156_TCCTTCTGTTAAACCC-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+r1_hbca_c45_CATAAGCTCTTTCAGT	basal cell	Ref20k
+r1_hbca_c52_AGTGATCAGACGCCAA	fibroblast	Ref20k
+hbca_c153_hbca_c153_CATTCTAGTTGTCCCT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c139_hbca_c139_GGTAATCCATGGGATG-1	mammary gland epithelial cell	Ref20k
+hbca_c150_hbca_c150_GAGACTTAGAAGAGCA-1	pericyte	Ref20k
+hbca_c165_hbca_c165_CATGGATAGAGAGCCT-1	CD4-positive, alpha-beta T cell	Ref20k
+hbca_c116_hbca_c116_CGTGCTTCAAGACGAC-1	fibroblast	Ref20k
+hbca_c133_hbca_c133_AGTACTGTCAGCCTTC-1	basal cell	Ref20k
+hbca_c120_hbca_c120_CCAATGATCTTTCCGG-1	fibroblast	Ref20k
+r2_hbca_c82_AGTGACTCATAAGATG-1	mature NK T cell	Ref20k
+hbca_c167_hbca_c167_GGTTCTCTCGGACTGC-1	fibroblast	Ref20k
+r2_hbca_c69_TCGTAGACACCTGCAG-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c58_ATTGTTCAGATCCAAA-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c35_AAACCCAAGGATCACG	mammary gland epithelial cell	Ref20k
+hbca_c130_hbca_c130_ATTTACCCAATCTCGA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c24_ACTGATGGTCTGCAAT	fibroblast	Ref20k
+hbca_c150_hbca_c150_CAGATCAAGCAATTAG-1	basal cell	Ref20k
+hbca_c134_hbca_c134_AGGATAATCGTCGGGT-1	basal cell	Ref20k
+r1_hbca_c44_GCACGGTTCTTTCAGT	endothelial cell of artery	Ref20k
+r2_hbca_c69_TTTGGTTGTGGCTTGC-1	endothelial cell of lymphatic vessel	Ref20k
+hbca_c108_hbca_c108_TGATCAGAGTGATCGG-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_CACTTCGCAGTATACC-1	lymphocyte	Ref20k
+r2_hbca_c90_TGGGAAGAGTAGGTTA-1	fibroblast	Ref20k
+hbca_c117_hbca_c117_CTTCAATTCGTAGAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c162_hbca_c162_AATCACGTCCTACACC-1	basal cell	Ref20k
+hbca_c101_hbca_c101_GAGGGATCAACACACT-1	mammary gland epithelial cell	Ref20k
+r1_hbca_c16_CTAAGACAGTGCGATG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c156_hbca_c156_AAAGGATCAGTGTGGA-1	fibroblast	Ref20k
+r1_hbca_c18_TCTTCGGAGCGTGAAC	luminal epithelial cell of mammary gland	Ref20k
+hbca_c147_hbca_c147_TCGGGACCAACCGGAA-1	basal cell	Ref20k
+hbca_c163_hbca_c163_CATAGACAGAAGTGTT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r1_hbca_c49_TCAAGTGCATTCTGTT	CD8-positive, alpha-beta memory T cell	Ref20k
+hbca_c138_hbca_c138_GACCTTCGTTTCCCAC-1	CD4-positive helper T cell	Ref20k
+r1_hbca_c23_CGAATGTGTATGCTTG	basal cell	Ref20k
+r2_hbca_c63_TAAGCCAGTTAAGAAC-1	fibroblast	Ref20k
+hbca_c117_hbca_c117_TAGGGTTAGTTAGTAG-1	basal cell	Ref20k
+r2_hbca_c49_ACACGCGCATCGGAAG-1	capillary endothelial cell	Ref20k
+hbca_c165_hbca_c165_GTCGTTCCAGGAAGTC-1	inflammatory macrophage	Ref20k
+hbca_c121_hbca_c121_TAAGCCAAGCATCTTG-1	effector memory CD4-positive, alpha-beta T cell	Ref20k
+hbca_c146_hbca_c146_TTCCGTGAGGAACGTC-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c94_GAATAGAGTCGCTTAA-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c80_GGAGGATTCTACACTT-1	fibroblast	Ref20k
+hbca_c156_hbca_c156_TTGCCTGAGCTTAAGA-1	fibroblast	Ref20k
+r1_hbca_c29_GCTTCCACAGCTGTTA	luminal epithelial cell of mammary gland	Ref20k
+hbca_c120_hbca_c120_CTCATGCAGATGAACT-1	fibroblast	Ref20k
+hbca_c136_hbca_c136_TTTAGTCAGTTTCTTC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c107_hbca_c107_TCTATACTCGAAATCC-1	fibroblast	Ref20k
+r1_hbca_c23_TTAGTTCCACCTATCC	fibroblast	Ref20k
+hbca_c153_hbca_c153_GGTTGTATCGAACTCA-1	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c34_CGGGACTAGAATACAC	fibroblast	Ref20k
+r2_hbca_c82_GTTCCGTGTGATATAG-1	basal cell	Ref20k
+r1_hbca_c28_CACAGTAAGCATCATC	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c52_CGTGTCTTCGCAGAGA	IgA plasma cell	Ref20k
+hbca_c106_hbca_c106_TAATCTCGTCAAATCC-1	mammary gland epithelial cell	Ref20k
+hbca_c101_hbca_c101_ACATGCAGTCCCTAAA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c28_GCATGTATCCAAATGC	fibroblast	Ref20k
+hbca_c133_hbca_c133_CTCAGAATCGATGCAT-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c83_CGCATGGGTTCTCTAT-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c50_GGGAAGTTCAAGTCGT-1	pericyte	Ref20k
+r2_hbca_c58_GTTACCCGTTATCTGG-1	class switched memory B cell	Ref20k
+hbca_c125_hbca_c125_ATGGAGGAGAAGATCT-1	basal cell	Ref20k
+r1_hbca_c51_ATGCATGTCCTCACGT	fibroblast	Ref20k
+r2_hbca_c96_ATGGATCCACCAGTAT-1	fibroblast	Ref20k
+hbca_c147_hbca_c147_TACCTCGCATCTCAAG-1	fibroblast	Ref20k
+r2_hbca_c73_GTCAAACAGGATTACA-1	IgA plasma cell	Ref20k
+r1_hbca_c31_TACTCGCCACGGCTAC	luminal epithelial cell of mammary gland	Ref20k
+hbca_c146_hbca_c146_AATGACCTCGTGGGTC-1	fibroblast	Ref20k
+r2_hbca_c96_TACAGGTAGTCACAGG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c142_hbca_c142_ACGGGTCGTACGTGAG-1	fibroblast	Ref20k
+hbca_c123_hbca_c123_GTATTGGAGATGGTCG-1	mast cell	Ref20k
+hbca_c112_hbca_c112_AAGCCATGTGCCAAGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c121_hbca_c121_AGTACCACAACCTATG-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_GTTCATTGTATGGTTC-1	fibroblast	Ref20k
+r1_hbca_c05_TTCGAAGGTTTAAGCC	endothelial cell of lymphatic vessel	Ref20k
+r1_hbca_c25_CAAGGCCTCATTCACT	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c62_GTTCATTTCTGGGCAC-1	fibroblast	Ref20k
+r1_hbca_c52_CTCTGGTAGACTGAGC	fibroblast	Ref20k
+hbca_c150_hbca_c150_TTCACCGTCTCTCGCA-1	mammary gland epithelial cell	Ref20k
+r2_hbca_c93_TAGCACAAGACCTGGA-1	fibroblast	Ref20k
+r2_hbca_c81_TCCATCGAGTTGTCGT-1	fibroblast	Ref20k
+hbca_c118_hbca_c118_GCAACATGTCTGCGCA-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c23_GCATGTAAGGTAGCTG	vein endothelial cell	Ref20k
+hbca_c148_hbca_c148_AGCTCAAAGCAAGGAA-1	basal cell	Ref20k
+hbca_c153_hbca_c153_TGGGAAGTCTGGTTGA-1	fibroblast	Ref20k
+r1_hbca_c21_CGCGTTTAGAACTCGG	vein endothelial cell	Ref20k
+hbca_c148_hbca_c148_GTGCAGCCAATTCTTC-1	fibroblast	Ref20k
+r1_hbca_c05_CTCATTACACCAGTTA	fibroblast	Ref20k
+r1_hbca_c22_GTCATTTAGAAACGAG	mammary gland epithelial cell	Ref20k
+hbca_c156_hbca_c156_CGGCAGTCAAAGGCTG-1	basal cell	Ref20k
+r1_hbca_c20_CTGCTGTAGGTGCAAC	alternatively activated macrophage	Ref20k
+hbca_c165_hbca_c165_TCCTTCTTCTTGCGCT-1	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c76_TCTACATCACAACGTT-1	fibroblast	Ref20k
+hbca_c139_hbca_c139_GTTGAACTCCCAAGCG-1	basal cell	Ref20k
+hbca_c139_hbca_c139_AGTGCCGGTAAGGCTG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c120_hbca_c120_ATTCTTGCACGCGCAT-1	basal cell	Ref20k
+r1_hbca_c23_TGTGTTTAGATGTAAC	endothelial cell of artery	Ref20k
+hbca_c122_hbca_c122_TAAGCCACAGCGCTTG-1	fibroblast	Ref20k
+hbca_c137_hbca_c137_ATGCGATTCCACACAA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c102_hbca_c102_TGAATCGAGAGGGTAA-1	basal cell	Ref20k
+r1_hbca_c30_GGTGAAGTCATCTGCC	fibroblast	Ref20k
+r2_hbca_c99_ACGTACAAGCAGCACA-1	fibroblast	Ref20k
+r1_hbca_c38_GGATCTACATCCGGTG	fibroblast	Ref20k
+hbca_c126_hbca_c126_TTTATGCTCTGCCTGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c75_CTGTCGTCAGAAACCG-1	fibroblast	Ref20k
+r1_hbca_c27_TCTGAGACAGCGTCCA	fibroblast	Ref20k
+hbca_c117_hbca_c117_GAGAGGTAGGGAACAA-1	basal cell	Ref20k
+r1_hbca_c50_CGCATGGAGGCACCAA	vein endothelial cell	Ref20k
+r2_hbca_c81_ACCGTTCCATCAACCA-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c141_hbca_c141_CCTCCTCAGGAGAGTA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c49_GTCCCATGTAGCGAGT-1	capillary endothelial cell	Ref20k
+hbca_c164_hbca_c164_GTAGTACCATGCAGCC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c155_hbca_c155_CTACGGGAGACGCCAA-1	capillary endothelial cell	Ref20k
+hbca_c150_hbca_c150_AGAGCCCCAATTCGTG-1	mammary gland epithelial cell	Ref20k
+hbca_c107_hbca_c107_CTCCGATAGAGACAAG-1	fibroblast	Ref20k
+r2_hbca_c97_GAGTTTGGTAGGTACG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c41_GCCAACGGTTCCCACT	pericyte	Ref20k
+hbca_c132_hbca_c132_CATTTCAAGCACTGGA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c124_hbca_c124_AGAGAATCAAGACGAC-1	fibroblast	Ref20k
+hbca_c115_hbca_c115_TCCCAGTAGTTCCTGA-1	fibroblast	Ref20k
+r2_hbca_c57_ACAGCCGGTCGCAGTC-1	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c74_GCCGATGCAAGCGCTC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c151_hbca_c151_CAGATCATCATACGGT-1	mammary gland epithelial cell	Ref20k
+hbca_c148_hbca_c148_AGGTGTTCATGTGGTT-1	basal cell	Ref20k
+hbca_c154_hbca_c154_CATGCAAAGAACTGAT-1	inflammatory macrophage	Ref20k
+r2_hbca_c90_TTACCGCGTTGCATAC-1	basal cell	Ref20k
+hbca_c150_hbca_c150_AAGTTCGCATCTCGTC-1	fibroblast	Ref20k
+hbca_c129_hbca_c129_AGTAGTCCATCGATAC-1	fibroblast	Ref20k
+r1_hbca_c29_GTGCATACAGATCCAT	mammary gland epithelial cell	Ref20k
+r2_hbca_c65_ATGGGTTGTTAGTCGT-1	basal cell	Ref20k
+hbca_c117_hbca_c117_AGCTACAAGGATGTTA-1	basal cell	Ref20k
+r2_hbca_c49_CCAAGCGCAGGAATAT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c108_hbca_c108_CAGCAATAGCTTCGTA-1	fibroblast	Ref20k
+r1_hbca_c17_CAGCCGAAGAGTAATC	CD4-positive, alpha-beta T cell	Ref20k
+r1_hbca_c40_CGCAGGTGTCGCAACC	fibroblast	Ref20k
+r2_hbca_c49_CCTAAGACAATGAGCG-1	fibroblast	Ref20k
+hbca_c110_hbca_c110_CTAGACACAAGCTGCC-1	pericyte	Ref20k
+hbca_c139_hbca_c139_ATACCTTTCATAGACC-1	basal cell	Ref20k
+r1_hbca_c33_CTTTCAACACGACGCT	capillary endothelial cell	Ref20k
+hbca_c117_hbca_c117_TGCGATAGTCGTCTCT-1	basal cell	Ref20k
+r1_hbca_c50_CTAAGTGAGGGCAGTT	fibroblast	Ref20k
+r2_hbca_c72_GGTTCTCTCTATCGTT-1	fibroblast	Ref20k
+hbca_c131_hbca_c131_TTCGCTGTCGACGCTG-1	fibroblast	Ref20k
+r1_hbca_c34_CAACGGCGTAGATGTA	fibroblast	Ref20k
+hbca_c137_hbca_c137_GGGTGTCCAAGCACAG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c131_hbca_c131_CTAAGTGCACTGCTTC-1	inflammatory macrophage	Ref20k
+r2_hbca_c51_AGAACCTCAAAGGATT-1	vascular associated smooth muscle cell	Ref20k
+r1_hbca_c30_AACCGCGTCTCTGTCG	vascular associated smooth muscle cell	Ref20k
+hbca_c157_hbca_c157_TAAGCGTTCGCTCTAC-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c60_ACTTTGTAGGCAATGC-1	basal cell	Ref20k
+hbca_c143_hbca_c143_TCATGGACATCGCCTT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c156_hbca_c156_CGGAACCAGAGGATGA-1	vascular associated smooth muscle cell	Ref20k
+r2_hbca_c89_AAGTGAACACAGAAGC-1	fibroblast	Ref20k
+r2_hbca_c87_CTCAGGGGTGACTATC-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c139_hbca_c139_CTGGTCTTCGTAATGC-1	endothelial cell of artery	Ref20k
+r2_hbca_c96_TATTGGGCAGGAACCA-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c141_hbca_c141_TTACGTTCATTGTCGA-1	fibroblast	Ref20k
+hbca_c136_hbca_c136_TAGATCGCACAACCGC-1	basal cell	Ref20k
+hbca_c121_hbca_c121_CTGTACCGTCCGGTGT-1	fibroblast	Ref20k
+hbca_c151_hbca_c151_TATGTTCTCCGAGAAG-1	activated CD4-positive, alpha-beta T cell	Ref20k
+hbca_c142_hbca_c142_CCCTTAGCAAAGTGTA-1	CD8-positive, alpha-beta memory T cell	Ref20k
+r2_hbca_c66_ATTCTACAGCGAATGC-1	fibroblast	Ref20k
+hbca_c152_hbca_c152_TTACCGCGTTCGGGTC-1	basal cell	Ref20k
+hbca_c133_hbca_c133_TAATCTCCAGTTGCGC-1	fibroblast	Ref20k
+hbca_c149_hbca_c149_GTTGTAGTCTTAGCAG-1	basal cell	Ref20k
+r1_hbca_c52_TGACGCGAGTCACAGG	basal cell	Ref20k
+r1_hbca_c17_AGAGCTTTCGCACTCT	vascular associated smooth muscle cell	Ref20k
+hbca_c128_hbca_c128_TCATGTTTCGACCCAG-1	pericyte	Ref20k
+r1_hbca_c07_CAGCCGAGTTAAGATG	luminal epithelial cell of mammary gland	Ref20k
+hbca_c113_hbca_c113_GTCCCATCAACTGTGT-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c155_hbca_c155_AGCCAATCACGCTGCA-1	vein endothelial cell	Ref20k
+r1_hbca_c35_TGACAGTAGAGTCAAT	CD4-positive, alpha-beta T cell	Ref20k
+r2_hbca_c81_ATCCACCCAATACGCT-1	fibroblast	Ref20k
+r2_hbca_c74_AACCTTTGTATTGCCA-1	effector memory CD8-positive, alpha-beta T cell	Ref20k
+hbca_c118_hbca_c118_ACCCTTGAGTATGATG-1	basal cell	Ref20k
+r2_hbca_c71_TGTTGGAGTGAGACCA-1	basal cell	Ref20k
+r2_hbca_c75_TCGACCTGTTAGTTCG-1	luminal epithelial cell of mammary gland	Ref20k
+hbca_c140_hbca_c140_ATGCATGCATAACAGA-1	basal cell	Ref20k
+hbca_c143_hbca_c143_TAGCACATCGGCTGTG-1	luminal epithelial cell of mammary gland	Ref20k
+r1_hbca_c23_GAACGGAGTAGCACGA	luminal epithelial cell of mammary gland	Ref20k
+r2_hbca_c49_CCTCATGAGCCGAACA-1	fibroblast	Ref20k
+hbca_c126_hbca_c126_CGATCGGGTGCTGTCG-1	basal cell	Ref20k
+hbca_c109_hbca_c109_GCACGGTGTAGTAAGT-1	CD4-positive helper T cell	Ref20k
+r2_hbca_c100_GAATCGTGTCCGGTGT-1	capillary endothelial cell	Ref20k
+hbca_c117_hbca_c117_ATCACGAAGCTACGTT-1	fibroblast	Ref20k
+r1_hbca_c27_GGACATTTCTACTTAC	inflammatory macrophage	Ref20k
