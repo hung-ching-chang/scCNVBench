@@ -1,4 +1,4 @@
-# Benchmarking scRNA-seq Copy Number Inference: A Comprehensive Evaluation and Practitioner’s Guide
+Comprehensive benchmarking and practitioner’s guide of copy number variation inference from single-cell RNA sequencing
 
 This repository contains the script used in our benchmarking study for CNV inference. In our study, we benchmark 12 CNV inference methods across 28 real datasets (>100,000 cells) and diverse synthetic datasets.
 
