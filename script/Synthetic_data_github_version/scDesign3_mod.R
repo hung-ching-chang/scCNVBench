@@ -1,9 +1,29 @@
+# -----------------------------------------------------------------------------
+# scDesign3_mod.R — CNV-aware synthetic gene-expression data generation
+#
+# Adapted from the scDesign3 workflow by Dongyuan Song and collaborators:
+# https://github.com/SONGDONGYUAN1994/scDesign3
+# Reference: Song D, et al. (2024). scDesign3 generates realistic in silico data
+# for multimodal single-cell and spatial omics. Nature Biotechnology 42:247–252.
+# https://doi.org/10.1038/s41587-023-01772-1
+#
+# Study-specific modifications: Seurat-based reference-cell clustering,
+# subclone-specific CNV dosage/signal factors, CNV-adjusted simulation,
+# output files, and heatmap visualization. See MODIFICATIONS.md for details.
+#
+# Usage: Set scDesign3_path and input/output paths below, then run this file
+# with Rscript and the --alpha_amp, --beta_amp, --alpha_del, --beta_del options.
+# Supporting scDesign3 R scripts are sourced automatically; do not run them
+# individually. Requires the dependencies loaded below.
+#
+# Original scDesign3 code is distributed under the MIT license; retain the
+# upstream LICENSE and copyright notices when redistributing derived code.
+# -----------------------------------------------------------------------------
+
 library(Seurat)
 library(SingleCellExperiment)
 library(parallel)
-# The following 11 files are from the Github page of scDesign3, can be downloaded 
-# from https://github.com/SONGDONGYUAN1994/scDesign3
-scDesign3_path <- "path/to/your/downloaded/scDesign3/folder"
+scDesign3_path <- "path/to/your/downloaded/Synthetic_data_github_version/folder"
 source(paste0(scDesign3_path, "/construct_data.R"))
 source(paste0(scDesign3_path, "/data.R"))
 source(paste0(scDesign3_path, "/extract_para.R"))
